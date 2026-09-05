@@ -1,0 +1,3365 @@
+rides_in_thousands,start_station_name,member_casual
+634.255,,member
+370.784,,casual
+0.466,2112 W Peterson Ave,member
+0.228,2112 W Peterson Ave,casual
+0.055,21st St & Pulaski Rd,member
+0.081,21st St & Pulaski Rd,casual
+0.834,63rd St Beach,casual
+0.477,63rd St Beach,member
+9.397,900 W Harrison St,member
+3.597,900 W Harrison St,casual
+0.001,Aberdeen St & 103rd St,member
+0.002,Aberdeen St & 103rd St,casual
+11.557,Aberdeen St & Jackson Blvd,member
+4.539,Aberdeen St & Jackson Blvd,casual
+2.536,Aberdeen St & Monroe St,casual
+7.448,Aberdeen St & Monroe St,member
+8.015,Aberdeen St & Randolph St,member
+3.998,Aberdeen St & Randolph St,casual
+0.002,Ada St & 113th Place,member
+0.009,Ada St & 113th St,casual
+0.003,Ada St & 113th St,member
+2.394,Ada St & Washington Blvd,casual
+5.493,Ada St & Washington Blvd,member
+12.672,Adler Planetarium,casual
+5.031,Adler Planetarium,member
+0.063,Albany Ave & 16th St,casual
+0.036,Albany Ave & 16th St,member
+0.067,Albany Ave & 26th St,member
+0.108,Albany Ave & 26th St,casual
+0.347,Albany Ave & Belmont Ave,member
+0.284,Albany Ave & Belmont Ave,casual
+3.338,Albany Ave & Bloomingdale Ave,member
+1.915,Albany Ave & Bloomingdale Ave,casual
+0.032,Albany Ave & Douglas Blvd,member
+0.071,Albany Ave & Douglas Blvd,casual
+0.68,Albany Ave & Montrose Ave,casual
+1.445,Albany Ave & Montrose Ave,member
+0.001,Altgeld Gardens,member
+0.033,Altgeld Gardens,casual
+0.135,Archer (Damen) Ave & 37th St,casual
+0.4,Archer (Damen) Ave & 37th St,member
+0.021,Archer Ave & 43rd St,member
+0.029,Archer Ave & 43rd St,casual
+0.013,Archer Ave & 49th St,casual
+0.013,Archer Ave & 49th St,member
+0.032,Archer Ave & Homan Ave,casual
+0.027,Archer Ave & Homan Ave,member
+0.101,Artesian Ave & 55th St,member
+0.11,Artesian Ave & 55th St,casual
+0.042,Artesian Ave & 71st St,casual
+0.028,Artesian Ave & 71st St,member
+3.532,Artesian Ave & Hubbard St,member
+1.3,Artesian Ave & Hubbard St,casual
+0.068,Artesian Ave & Marquette Rd,casual
+0.079,Artesian Ave & Marquette Rd,member
+0.473,Ashland Ave & 13th St,casual
+2.719,Ashland Ave & 13th St,member
+0.056,Ashland Ave & 50th St,casual
+0.152,Ashland Ave & 50th St,member
+0.026,Ashland Ave & 63rd St,member
+0.034,Ashland Ave & 63rd St,casual
+0.04,Ashland Ave & 66th St,member
+0.072,Ashland Ave & 66th St,casual
+0.023,Ashland Ave & 74th St,member
+0.026,Ashland Ave & 74th St,casual
+0.027,Ashland Ave & 78th St,casual
+0.018,Ashland Ave & 78th St,member
+0.383,Ashland Ave & Archer Ave,casual
+0.798,Ashland Ave & Archer Ave,member
+1.404,Ashland Ave & Augusta Blvd,casual
+5.141,Ashland Ave & Augusta Blvd,member
+1.33,Ashland Ave & Belle Plaine Ave,casual
+1.903,Ashland Ave & Belle Plaine Ave,member
+2.455,Ashland Ave & Blackhawk St,casual
+5.077,Ashland Ave & Blackhawk St,member
+4.768,Ashland Ave & Chicago Ave,member
+1.882,Ashland Ave & Chicago Ave,casual
+14.271,Ashland Ave & Division St,member
+6.348,Ashland Ave & Division St,casual
+0.032,Ashland Ave & Garfield Blvd,member
+0.028,Ashland Ave & Garfield Blvd,casual
+4.622,Ashland Ave & Grace St,member
+2.369,Ashland Ave & Grace St,casual
+1.687,Ashland Ave & Grand Ave,casual
+3.544,Ashland Ave & Grand Ave,member
+1.929,Ashland Ave & Lake St,casual
+3.441,Ashland Ave & Lake St,member
+0.105,Ashland Ave & McDowell Ave,member
+0.091,Ashland Ave & McDowell Ave,casual
+0.085,Ashland Ave & Pershing Rd,casual
+0.15,Ashland Ave & Pershing Rd,member
+1.785,Ashland Ave & Wellington Ave,casual
+5.058,Ashland Ave & Wellington Ave,member
+3.933,Ashland Ave & Wrightwood Ave,member
+1.667,Ashland Ave & Wrightwood Ave,casual
+0.053,Augusta Blvd & Laramie Ave,casual
+0.005,Augusta Blvd & Laramie Ave,member
+0.106,Austin Blvd & Chicago Ave,casual
+0.045,Austin Blvd & Chicago Ave,member
+0.101,Austin Blvd & Lake St,member
+0.202,Austin Blvd & Lake St,casual
+0.087,Austin Blvd & Madison St,member
+0.118,Austin Blvd & Madison St,casual
+0.023,Avenue L & 114th St,casual
+0.005,Avenue L & 114th St,member
+0.046,Avenue O & 118th St,member
+0.073,Avenue O & 118th St,casual
+0.005,Avenue O & 134th St,member
+0.059,Avenue O & 134th St,casual
+0.008,Avers Ave & 16th St,member
+0.04,Avers Ave & 16th St,casual
+1.337,Avers Ave & Belmont Ave,member
+0.952,Avers Ave & Belmont Ave,casual
+2.028,Avondale Ave & Irving Park Rd,member
+0.937,Avondale Ave & Irving Park Rd,casual
+0.026,Baltimore Ave & 133rd St,casual
+0.002,Baltimore Ave & 133rd St,member
+0.087,Baltimore Ave & 87th St,casual
+0.163,Baltimore Ave & 87th St,member
+0.018,Bennett Ave & 79th St,casual
+0.013,Bennett Ave & 79th St,member
+3.317,Benson Ave & Church St,member
+2.51,Benson Ave & Church St,casual
+0.907,Bernard St & Elston Ave,member
+0.38,Bernard St & Elston Ave,casual
+0.109,Bernard St & Peterson Ave,member
+0.077,Bernard St & Peterson Ave,casual
+0.214,Big Marsh Park,casual
+0.093,Big Marsh Park,member
+4.466,Bissell St & Armitage Ave*,casual
+8.84,Bissell St & Armitage Ave*,member
+2.584,Blackstone Ave & 59th St,casual
+7.084,Blackstone Ave & 59th St,member
+1.746,Blackstone Ave & Hyde Park Blvd,casual
+3.856,Blackstone Ave & Hyde Park Blvd,member
+0.02,Bloomingdale Ave & Harlem Ave,casual
+0.005,Bloomingdale Ave & Harlem Ave,member
+1.593,Blue Island Ave & 18th St,casual
+3.646,Blue Island Ave & 18th St,member
+0.604,Bosworth Ave & Howard St,member
+0.197,Bosworth Ave & Howard St,casual
+0.023,Bradley Park,member
+0.034,Bradley Park,casual
+2.196,Broadway & Argyle St,casual
+5.299,Broadway & Argyle St,member
+16.567,Broadway & Barry Ave,member
+7.341,Broadway & Barry Ave,casual
+9.458,Broadway & Belmont Ave,member
+4.624,Broadway & Belmont Ave,casual
+2.138,Broadway & Berwyn Ave,casual
+5.234,Broadway & Berwyn Ave,member
+6.347,Broadway & Cornelia Ave,casual
+13.53,Broadway & Cornelia Ave,member
+2.424,Broadway & Granville Ave,casual
+4.387,Broadway & Granville Ave,member
+3.651,Broadway & Ridge Ave,member
+1.6,Broadway & Ridge Ave,casual
+4.071,Broadway & Sheridan Rd,casual
+9.998,Broadway & Sheridan Rd,member
+2.354,Broadway & Thorndale Ave,casual
+4.346,Broadway & Thorndale Ave,member
+5.443,Broadway & Waveland Ave,casual
+14.154,Broadway & Waveland Ave,member
+4.019,Broadway & Wilson Ave,casual
+7.884,Broadway & Wilson Ave,member
+3.634,Buckingham Fountain,member
+11.353,Buckingham Fountain,casual
+0.326,Budlong Woods Library,member
+0.211,Budlong Woods Library,casual
+0.017,Burley Ave & 85th St,member
+0.05,Burley Ave & 85th St,casual
+0.004,Burley Ave & 91st St,casual
+0.003,Burley Ave & 91st St,member
+8.524,Burling St & Diversey Pkwy,member
+2.941,Burling St & Diversey Pkwy,casual
+0.06,Burnham Greenway & 105th St,member
+0.076,Burnham Greenway & 105th St,casual
+0.098,Burnham Greenway & 112th St,member
+0.254,Burnham Greenway & 112th St,casual
+6.013,Burnham Harbor,member
+4.731,Burnham Harbor,casual
+0.146,California & 16th St,casual
+0.1,California & 16th St,member
+0.352,California Ave & 21st St,member
+0.27,California Ave & 21st St,casual
+0.148,California Ave & 23rd Pl,casual
+0.299,California Ave & 23rd Pl,member
+0.093,California Ave & 26th St,casual
+0.189,California Ave & 26th St,member
+0.02,California Ave & 29th St,casual
+0.015,California Ave & 29th St,member
+0.044,California Ave & 36th St,casual
+0.024,California Ave & 36th St,member
+0.047,California Ave & 41st St,member
+0.067,California Ave & 41st St,casual
+0.05,California Ave & 71st St,member
+0.055,California Ave & 71st St,casual
+2.628,California Ave & Altgeld St,member
+1.037,California Ave & Altgeld St,casual
+1.631,California Ave & Byron St,member
+0.91,California Ave & Byron St,casual
+3.492,California Ave & Cortez St,member
+2.069,California Ave & Cortez St,casual
+2.237,California Ave & Division St,member
+1.327,California Ave & Division St,casual
+0.971,California Ave & Fletcher St,casual
+1.523,California Ave & Fletcher St,member
+2.98,California Ave & Francis Pl,member
+1.758,California Ave & Francis Pl,casual
+0.237,California Ave & Granville Ave,casual
+0.635,California Ave & Granville Ave,member
+0.396,California Ave & Lake St,casual
+0.473,California Ave & Lake St,member
+0.066,California Ave & Madison St,casual
+0.066,California Ave & Madison St,member
+0.104,California Ave & Marquette Rd,casual
+0.034,California Ave & Marquette Rd,member
+4.423,California Ave & Milwaukee Ave,casual
+7.2,California Ave & Milwaukee Ave,member
+1.142,California Ave & Montrose Ave,casual
+2.376,California Ave & Montrose Ave,member
+1.38,California Ave & North Ave,casual
+2.588,California Ave & North Ave,member
+0.143,California Ave & Touhy Ave,member
+0.119,California Ave & Touhy Ave,casual
+0.478,California Ave & Winona St,member
+0.179,California Ave & Winona St,casual
+4.085,Calumet Ave & 18th St,casual
+5.089,Calumet Ave & 18th St,member
+2.244,Calumet Ave & 21st St,member
+2.718,Calumet Ave & 21st St,casual
+1.052,Calumet Ave & 33rd St,casual
+11.398,Calumet Ave & 33rd St,member
+0.521,Calumet Ave & 35th St,casual
+2.19,Calumet Ave & 35th St,member
+0.374,Calumet Ave & 51st St,member
+0.285,Calumet Ave & 51st St,casual
+0.077,Calumet Ave & 71st St,member
+0.05,Calumet Ave & 71st St,casual
+0.187,Calumet Park,casual
+0.046,Calumet Park,member
+0.016,Campbell Ave & 51st St,member
+0.065,Campbell Ave & 51st St,casual
+1.016,Campbell Ave & Augusta Blvd,casual
+2.011,Campbell Ave & Augusta Blvd,member
+1.097,Campbell Ave & Fullerton Ave,casual
+1.69,Campbell Ave & Fullerton Ave,member
+0.324,Campbell Ave & Irving Park Rd,member
+0.207,Campbell Ave & Irving Park Rd,casual
+1.017,Campbell Ave & Montrose Ave,casual
+2.342,Campbell Ave & Montrose Ave,member
+1.895,Campbell Ave & North Ave,casual
+4.085,Campbell Ave & North Ave,member
+16.959,Canal St & Adams St,member
+5.365,Canal St & Adams St,casual
+2.222,Canal St & Harrison St,member
+1.241,Canal St & Harrison St,casual
+2.905,Canal St & Jackson Blvd,casual
+8.969,Canal St & Jackson Blvd,member
+18.901,Canal St & Madison St,member
+7.033,Canal St & Madison St,casual
+8.533,Canal St & Monroe St,member
+2.759,Canal St & Monroe St,casual
+2.321,Canal St & Taylor St,casual
+3.646,Canal St & Taylor St,member
+3.691,Cannon Dr & Fullerton Ave,casual
+2.425,Cannon Dr & Fullerton Ave,member
+0.017,Carpenter St & 63rd St,casual
+0.005,Carpenter St & 63rd St,member
+6.724,Carpenter St & Huron St,member
+3.165,Carpenter St & Huron St,casual
+0.167,Central Ave & Altgeld St,member
+0.097,Central Ave & Altgeld St,casual
+0.269,Central Ave & Chicago Ave,member
+0.063,Central Ave & Chicago Ave,casual
+0.017,Central Ave & Harrison St,member
+0.065,Central Ave & Harrison St,casual
+0.098,Central Ave & Lake St,member
+0.098,Central Ave & Lake St,casual
+0.091,Central Ave & Madison St,member
+0.076,Central Ave & Madison St,casual
+0.145,Central Ave & Parker Ave,member
+0.057,Central Ave & Parker Ave,casual
+0.114,Central Ave & Roscoe St,casual
+0.046,Central Ave & Roscoe St,member
+0.072,Central Ave & Wellington Ave,member
+0.06,Central Ave & Wellington Ave,casual
+0.163,Central Park & Augusta Blvd,member
+0.07,Central Park & Augusta Blvd,casual
+0.058,Central Park Ave & 24th St,member
+0.056,Central Park Ave & 24th St,casual
+0.022,Central Park Ave & 66th St,casual
+0.003,Central Park Ave & 66th St,member
+0.185,Central Park Ave & Ardmore Ave,casual
+0.181,Central Park Ave & Ardmore Ave,member
+0.926,Central Park Ave & Bloomingdale Ave,casual
+1.0,Central Park Ave & Bloomingdale Ave,member
+0.057,Central Park Ave & Douglas Blvd,casual
+0.035,Central Park Ave & Douglas Blvd,member
+0.908,Central Park Ave & Elbridge Ave,casual
+1.852,Central Park Ave & Elbridge Ave,member
+0.303,Central Park Ave & North Ave,casual
+0.451,Central Park Ave & North Ave,member
+0.28,Central Park Ave & Ogden Ave,member
+0.358,Central Park Ave & Ogden Ave,casual
+0.014,Central Park Ave & Ohio St,member
+0.141,Central Park Ave & Ohio St,casual
+0.062,Central Park Ave & Washington Blvd,member
+0.075,Central Park Ave & Washington Blvd,casual
+0.058,Central Park Blvd & 5th Ave,casual
+0.061,Central Park Blvd & 5th Ave,member
+0.486,Central St & Girard Ave,member
+0.569,Central St & Girard Ave,casual
+0.711,Central St Metra,member
+0.665,Central St Metra,casual
+1.381,Cherry Ave & Blackhawk St,member
+0.613,Cherry Ave & Blackhawk St,casual
+2.521,Chicago Ave & Sheridan Rd,casual
+2.817,Chicago Ave & Sheridan Rd,member
+1.157,Chicago Ave & Washington St,casual
+1.311,Chicago Ave & Washington St,member
+0.174,Chicago State University,casual
+0.084,Chicago State University,member
+1.059,Christiana Ave & Lawrence Ave,member
+0.66,Christiana Ave & Lawrence Ave,casual
+0.022,Cicero Ave & Flournoy St,casual
+0.043,Cicero Ave & Flournoy St,member
+0.073,Cicero Ave & Grace St,member
+0.013,Cicero Ave & Grace St,casual
+0.097,Cicero Ave & Lake St,casual
+0.07,Cicero Ave & Lake St,member
+0.041,Cicero Ave & Quincy St,member
+0.025,Cicero Ave & Quincy St,casual
+0.108,Cicero Ave & Roscoe Ave,casual
+0.148,Cicero Ave & Roscoe Ave,member
+0.025,Cicero Ave & Wellington Ave,member
+0.064,Cicero Ave & Wellington Ave,casual
+0.195,Cicero Ave & Wrightwood Ave,member
+0.092,Cicero Ave & Wrightwood Ave,casual
+7.787,Cityfront Plaza Dr & Pioneer Ct,member
+7.18,Cityfront Plaza Dr & Pioneer Ct,casual
+1.854,Claremont Ave & Hirsch St,member
+1.024,Claremont Ave & Hirsch St,casual
+3.746,Clarendon Ave & Gordon Ter,casual
+10.916,Clarendon Ave & Gordon Ter,member
+3.74,Clarendon Ave & Junior Ter,casual
+7.753,Clarendon Ave & Junior Ter,member
+4.513,Clarendon Ave & Leland Ave,member
+2.229,Clarendon Ave & Leland Ave,casual
+2.153,Clark St & 9th St (AMLI),casual
+3.687,Clark St & 9th St (AMLI),member
+10.332,Clark St & Armitage Ave,casual
+14.719,Clark St & Armitage Ave,member
+7.415,Clark St & Berwyn Ave,member
+3.75,Clark St & Berwyn Ave,casual
+2.297,Clark St & Bryn Mawr Ave,casual
+5.453,Clark St & Bryn Mawr Ave,member
+3.958,Clark St & Chicago Ave,casual
+8.249,Clark St & Chicago Ave,member
+0.742,Clark St & Columbia Ave,casual
+1.872,Clark St & Columbia Ave,member
+5.584,Clark St & Drummond Pl,casual
+12.01,Clark St & Drummond Pl,member
+10.699,Clark St & Elm St,casual
+24.427,Clark St & Elm St,member
+2.294,Clark St & Elmdale Ave,member
+1.256,Clark St & Elmdale Ave,casual
+5.465,Clark St & Grace St,casual
+6.57,Clark St & Grace St,member
+5.598,Clark St & Ida B Wells Dr,member
+2.698,Clark St & Ida B Wells Dr,casual
+0.374,Clark St & Jarvis Ave,casual
+0.976,Clark St & Jarvis Ave,member
+13.007,Clark St & Lake St,member
+6.135,Clark St & Lake St,casual
+6.223,Clark St & Leland Ave,member
+3.374,Clark St & Leland Ave,casual
+14.262,Clark St & Lincoln Ave,member
+10.313,Clark St & Lincoln Ave,casual
+1.461,Clark St & Lunt Ave,casual
+2.535,Clark St & Lunt Ave,member
+2.601,Clark St & Montrose Ave,casual
+4.9,Clark St & Montrose Ave,member
+7.206,Clark St & Newport St,casual
+10.242,Clark St & Newport St,member
+5.155,Clark St & North Ave,casual
+6.691,Clark St & North Ave,member
+0.032,Clark St & Randolph St,casual
+0.258,Clark St & Randolph St,member
+6.157,Clark St & Schiller St,casual
+11.728,Clark St & Schiller St,member
+1.002,Clark St & Schreiber Ave,casual
+1.804,Clark St & Schreiber Ave,member
+0.633,Clark St & Touhy Ave,member
+0.348,Clark St & Touhy Ave,casual
+4.454,Clark St & Wellington Ave,casual
+9.346,Clark St & Wellington Ave,member
+9.543,Clark St & Winnemac Ave,member
+4.77,Clark St & Winnemac Ave,casual
+6.564,Clark St & Wrightwood Ave,casual
+13.365,Clark St & Wrightwood Ave,member
+7.734,Clifton Ave & Armitage Ave,member
+3.145,Clifton Ave & Armitage Ave,casual
+2.109,Clinton St & 18th St,member
+1.287,Clinton St & 18th St,casual
+20.048,Clinton St & Jackson Blvd,member
+6.188,Clinton St & Jackson Blvd,casual
+15.13,Clinton St & Lake St,member
+5.15,Clinton St & Lake St,casual
+8.026,Clinton St & Madison St,casual
+24.573,Clinton St & Madison St,member
+0.59,Clinton St & Polk St,member
+0.619,Clinton St & Polk St,casual
+2.586,Clinton St & Roosevelt Rd,casual
+4.31,Clinton St & Roosevelt Rd,member
+5.04,Clinton St & Tilden St,member
+1.891,Clinton St & Tilden St,casual
+27.44,Clinton St & Washington Blvd,member
+6.708,Clinton St & Washington Blvd,casual
+4.017,Clybourn Ave & Division St,member
+1.339,Clybourn Ave & Division St,casual
+0.069,Clyde Ave & 87th St,casual
+0.015,Clyde Ave & 87th St,member
+0.011,Columbus Ave & 79th St,member
+0.086,Columbus Ave & 79th St,casual
+0.012,Columbus Ave & 83rd Pl,member
+0.024,Columbus Ave & 83rd Pl,casual
+9.27,Columbus Dr & Randolph St,casual
+13.033,Columbus Dr & Randolph St,member
+0.02,Commercial Ave & 100th St,member
+0.023,Commercial Ave & 100th St,casual
+0.01,Commercial Ave & 130th St,member
+0.111,Commercial Ave & 130th St,casual
+0.073,Commercial Ave & 83rd St,casual
+0.137,Commercial Ave & 83rd St,member
+0.012,Commercial Ave & 90th St,casual
+0.009,Commercial Ave & 90th St,member
+0.01,Commercial Ave & 97th St,casual
+0.031,Commercial Ave & 97th St,member
+0.235,Conservatory Dr & Lake St,member
+0.323,Conservatory Dr & Lake St,casual
+0.055,Constance Ave & 95th St,casual
+0.028,Constance Ave & 95th St,member
+2.575,Cornell Ave & Hyde Park Blvd,casual
+5.63,Cornell Ave & Hyde Park Blvd,member
+0.043,Cottage Grove Ave & 111th Pl,casual
+0.055,Cottage Grove Ave & 111th Pl,member
+0.33,Cottage Grove Ave & 43rd St,casual
+0.524,Cottage Grove Ave & 43rd St,member
+0.218,Cottage Grove Ave & 47th St,casual
+0.807,Cottage Grove Ave & 47th St,member
+0.391,Cottage Grove Ave & 51st St,casual
+0.643,Cottage Grove Ave & 51st St,member
+0.757,Cottage Grove Ave & 63rd St,member
+0.391,Cottage Grove Ave & 63rd St,casual
+0.227,Cottage Grove Ave & 67th St,member
+0.243,Cottage Grove Ave & 67th St,casual
+0.027,Cottage Grove Ave & 71st St,member
+0.051,Cottage Grove Ave & 71st St,casual
+0.026,Cottage Grove Ave & 78th St,casual
+0.022,Cottage Grove Ave & 78th St,member
+0.047,Cottage Grove Ave & 83rd St,casual
+0.157,Cottage Grove Ave & 83rd St,member
+0.363,Cottage Grove Ave & Oakwood Blvd,member
+0.551,Cottage Grove Ave & Oakwood Blvd,casual
+0.001,Cumberland Ave & Catherine Ave,casual
+15.207,Daley Center Plaza,member
+6.29,Daley Center Plaza,casual
+0.024,Damen Ave & 33rd St,casual
+0.03,Damen Ave & 33rd St,member
+0.015,Damen Ave & 51st St,member
+0.031,Damen Ave & 51st St,casual
+0.028,Damen Ave & 59th St,member
+0.036,Damen Ave & 59th St,casual
+0.025,Damen Ave & 74th St,member
+0.052,Damen Ave & 74th St,casual
+0.004,Damen Ave & 77th St,member
+0.008,Damen Ave & 77th St,casual
+0.06,Damen Ave & 81st St,casual
+0.025,Damen Ave & 81st St,member
+0.083,Damen Ave & 87th St,casual
+0.03,Damen Ave & 87th St,member
+2.098,Damen Ave & Charleston St,casual
+3.557,Damen Ave & Charleston St,member
+3.108,Damen Ave & Chicago Ave,casual
+6.978,Damen Ave & Chicago Ave,member
+3.203,Damen Ave & Clybourn Ave,member
+1.414,Damen Ave & Clybourn Ave,casual
+7.085,Damen Ave & Cortland St,member
+4.351,Damen Ave & Cortland St,casual
+0.967,Damen Ave & Cullerton St,casual
+1.825,Damen Ave & Cullerton St,member
+2.789,Damen Ave & Division St,casual
+5.933,Damen Ave & Division St,member
+2.469,Damen Ave & Foster Ave,member
+1.466,Damen Ave & Foster Ave,casual
+1.914,Damen Ave & Grand Ave,casual
+3.447,Damen Ave & Grand Ave,member
+0.81,Damen Ave & Lake St,casual
+1.218,Damen Ave & Lake St,member
+1.922,Damen Ave & Leland Ave,casual
+4.489,Damen Ave & Leland Ave,member
+1.118,Damen Ave & Madison St,casual
+1.718,Damen Ave & Madison St,member
+1.305,Damen Ave & Melrose Ave,casual
+2.624,Damen Ave & Melrose Ave,member
+0.146,Damen Ave & Pershing Rd,member
+0.157,Damen Ave & Pershing Rd,casual
+6.476,Damen Ave & Pierce Ave,casual
+12.117,Damen Ave & Pierce Ave,member
+2.466,Damen Ave & Sunnyside Ave,member
+1.405,Damen Ave & Sunnyside Ave,casual
+2.628,Damen Ave & Thomas St (Augusta Blvd),casual
+5.054,Damen Ave & Thomas St (Augusta Blvd),member
+1.225,Damen Ave & Wabansia Ave,casual
+2.528,Damen Ave & Wabansia Ave,member
+0.439,Damen Ave & Walnut (Lake) St,casual
+1.038,Damen Ave & Walnut (Lake) St,member
+3.24,Damen Ave & Wellington Ave,member
+1.6,Damen Ave & Wellington Ave,casual
+0.482,Damen Ave/Coulter St,member
+0.383,Damen Ave/Coulter St,casual
+0.037,Dan Ryan Woods & 83rd St,member
+0.223,Dan Ryan Woods & 83rd St,casual
+0.037,Dauphin Ave & 103rd St,casual
+0.008,Dauphin Ave & 103rd St,member
+0.066,Dauphin Ave & 87th St,casual
+0.045,Dauphin Ave & 87th St,member
+7.961,Dayton St & North Ave,member
+4.102,Dayton St & North Ave,casual
+7.516,Dearborn Pkwy & Delaware Pl,casual
+15.073,Dearborn Pkwy & Delaware Pl,member
+3.243,Dearborn St & Adams St,casual
+6.702,Dearborn St & Adams St,member
+8.219,Dearborn St & Erie St,casual
+19.195,Dearborn St & Erie St,member
+5.804,Dearborn St & Monroe St,casual
+13.471,Dearborn St & Monroe St,member
+2.431,Dearborn St & Van Buren St,casual
+3.308,Dearborn St & Van Buren St,member
+3.053,Delano Ct & Roosevelt Rd,casual
+4.084,Delano Ct & Roosevelt Rd,member
+10.0,Desplaines St & Jackson Blvd,member
+3.378,Desplaines St & Jackson Blvd,casual
+7.392,Desplaines St & Kinzie St,casual
+16.203,Desplaines St & Kinzie St,member
+2.882,Desplaines St & Randolph St,casual
+6.04,Desplaines St & Randolph St,member
+0.457,Dodge Ave & Church St,member
+0.498,Dodge Ave & Church St,casual
+0.322,Dodge Ave & Main St,member
+0.218,Dodge Ave & Main St,casual
+0.315,Dodge Ave & Mulford St,member
+0.202,Dodge Ave & Mulford St,casual
+0.331,Dorchester Ave & 49th St,casual
+0.962,Dorchester Ave & 49th St,member
+0.366,Dorchester Ave & 63rd St,casual
+0.788,Dorchester Ave & 63rd St,member
+0.017,Doty Ave & 111th St,member
+0.078,Doty Ave & 111th St,casual
+1.172,Drake Ave & Addison St,member
+0.688,Drake Ave & Addison St,casual
+0.726,Drake Ave & Montrose Ave,member
+0.565,Drake Ave & Montrose Ave,casual
+3.354,Drexel Ave & 60th St,member
+1.107,Drexel Ave & 60th St,casual
+10.13,DuSable Lake Shore Dr & Belmont Ave,member
+8.02,DuSable Lake Shore Dr & Belmont Ave,casual
+8.667,DuSable Lake Shore Dr & Diversey Pkwy,casual
+11.958,DuSable Lake Shore Dr & Diversey Pkwy,member
+9.729,DuSable Lake Shore Dr & Monroe St,member
+33.485,DuSable Lake Shore Dr & Monroe St,casual
+16.254,DuSable Lake Shore Dr & North Blvd,member
+22.668,DuSable Lake Shore Dr & North Blvd,casual
+7.199,DuSable Lake Shore Dr & Wellington Ave,casual
+9.516,DuSable Lake Shore Dr & Wellington Ave,member
+0.436,DuSable Museum,member
+0.231,DuSable Museum,casual
+6.631,Dusable Harbor,member
+18.176,Dusable Harbor,casual
+0.038,East End Ave & 87th St,casual
+0.017,East End Ave & 87th St,member
+0.953,Eastlake Ter & Howard St,member
+0.5,Eastlake Ter & Howard St,casual
+0.002,Eberhart Ave & 131st St,member
+0.039,Eberhart Ave & 131st St,casual
+0.184,Eberhart Ave & 61st St,member
+0.133,Eberhart Ave & 61st St,casual
+0.038,Eberhart Ave & 91st St,casual
+0.031,Eberhart Ave & 91st St,member
+2.675,Eckhart Park,casual
+5.383,Eckhart Park,member
+0.001,Eggleston Ave & 115th St,member
+0.08,Eggleston Ave & 69th St,casual
+0.139,Eggleston Ave & 69th St,member
+0.021,Eggleston Ave & 92nd St,casual
+0.001,Eggleston Ave & 92nd St,member
+0.034,Elizabeth St & 47th St,member
+0.027,Elizabeth St & 47th St,casual
+0.005,Elizabeth St & 92nd St,member
+0.034,Elizabeth St & 92nd St,casual
+5.051,Elizabeth St & Fulton St,member
+2.156,Elizabeth St & Fulton St,casual
+3.584,Elizabeth St & Randolph St,casual
+7.808,Elizabeth St & Randolph St,member
+1.579,Ellis Ave & 53rd St,casual
+4.196,Ellis Ave & 53rd St,member
+4.831,Ellis Ave & 55th St,casual
+14.533,Ellis Ave & 55th St,member
+1.729,Ellis Ave & 58th St,casual
+6.956,Ellis Ave & 58th St,member
+16.044,Ellis Ave & 60th St,member
+5.72,Ellis Ave & 60th St,casual
+0.066,Ellis Ave & 83rd St,casual
+0.017,Ellis Ave & 83rd St,member
+0.418,Elmwood Ave & Austin St,casual
+0.337,Elmwood Ave & Austin St,member
+3.427,Elston Ave & Cortland St,casual
+7.152,Elston Ave & Cortland St,member
+0.509,Elston Ave & George St,casual
+0.967,Elston Ave & George St,member
+0.345,Elston Ave & Henderson St,member
+0.38,Elston Ave & Henderson St,casual
+2.086,Elston Ave & Wabansia Ave,member
+1.335,Elston Ave & Wabansia Ave,casual
+2.007,Emerald Ave & 28th St,member
+0.621,Emerald Ave & 28th St,casual
+4.131,Emerald Ave & 31st St,member
+1.022,Emerald Ave & 31st St,casual
+0.074,Evans Ave & 75th St,member
+0.031,Evans Ave & 75th St,casual
+0.693,Evanston Civic Center,member
+0.889,Evanston Civic Center,casual
+0.008,Ewing Ave & 106th St,member
+0.039,Ewing Ave & 106th St,casual
+0.013,Ewing Ave & 97th St,casual
+0.001,Ewing Ave & 97th St,member
+0.008,Ewing Ave & 98th St,casual
+0.003,Ewing Ave & 98th St,member
+0.061,Ewing Ave & Burnham Greenway,member
+0.066,Ewing Ave & Burnham Greenway,casual
+0.07,Exchange Ave & 79th St,casual
+0.242,Exchange Ave & 79th St,member
+7.172,Fairbanks Ct & Grand Ave,casual
+10.386,Fairbanks Ct & Grand Ave,member
+5.234,Fairbanks St & Superior St,member
+2.156,Fairbanks St & Superior St,casual
+0.067,Fairfield Ave & 44th St,member
+0.13,Fairfield Ave & 44th St,casual
+0.144,Fairfield Ave & Pratt Blvd,casual
+0.236,Fairfield Ave & Pratt Blvd,member
+0.194,Fairfield Ave & Roosevelt Rd,member
+0.115,Fairfield Ave & Roosevelt Rd,casual
+0.001,Farragut Ave & Central Ave,casual
+0.005,Farragut Ave & Central Ave,member
+6.074,Federal St & Polk St,casual
+11.562,Federal St & Polk St,member
+7.42,Field Blvd & South Water St,member
+6.174,Field Blvd & South Water St,casual
+2.176,Field Museum,member
+9.734,Field Museum,casual
+6.872,Financial Pl & Ida B Wells Dr,member
+3.175,Financial Pl & Ida B Wells Dr,casual
+1.796,Fort Dearborn Dr & 31st St,casual
+1.912,Fort Dearborn Dr & 31st St,member
+2.22,Fort Dearborn Dr & 31st St*,casual
+2.694,Fort Dearborn Dr & 31st St*,member
+0.063,Francisco Ave & 47th St,casual
+0.095,Francisco Ave & 47th St,member
+0.006,Francisco Ave & 85th St,member
+0.076,Francisco Ave & 85th St,casual
+0.601,Francisco Ave & Bloomingdale Ave,member
+0.608,Francisco Ave & Bloomingdale Ave,casual
+0.54,Francisco Ave & Chicago Ave,casual
+0.811,Francisco Ave & Chicago Ave,member
+1.55,Francisco Ave & Foster Ave,member
+0.602,Francisco Ave & Foster Ave,casual
+0.03,Francisco Ave & Hollywood Ave,casual
+0.029,Francisco Ave & Hollywood Ave,member
+0.461,Francisco Ave & Montrose Ave,member
+0.372,Francisco Ave & Montrose Ave,casual
+3.333,Franklin St & Adams St (Temp),casual
+7.67,Franklin St & Adams St (Temp),member
+8.158,Franklin St & Chicago Ave,member
+3.914,Franklin St & Chicago Ave,casual
+9.764,Franklin St & Illinois St,member
+4.743,Franklin St & Illinois St,casual
+11.079,Franklin St & Jackson Blvd,member
+6.176,Franklin St & Jackson Blvd,casual
+11.377,Franklin St & Lake St,member
+4.545,Franklin St & Lake St,casual
+2.905,Franklin St & Monroe St,casual
+10.393,Franklin St & Monroe St,member
+0.068,Fullerton & Monitor,casual
+0.014,Fullerton & Monitor,member
+0.004,Glenlake Ave & Pulaski Rd,member
+0.002,Glenlake Ave & Pulaski Rd,casual
+2.865,Glenwood Ave & Morse Ave,member
+1.207,Glenwood Ave & Morse Ave,casual
+1.44,Glenwood Ave & Touhy Ave,member
+1.051,Glenwood Ave & Touhy Ave,casual
+0.018,Grace & Cicero,member
+0.011,Grace & Cicero,casual
+0.092,Grace St & Central Ave,member
+0.053,Grace St & Central Ave,casual
+0.112,Grace St & Cicero Ave,casual
+0.214,Grace St & Cicero Ave,member
+0.037,Granville Ave & Pulaski Rd,casual
+0.056,Granville Ave & Pulaski Rd,member
+5.566,Green St & Madison St,casual
+14.465,Green St & Madison St,member
+5.679,Green St & Randolph St*,member
+3.283,Green St & Randolph St*,casual
+5.106,Green St & Washington Blvd,member
+2.923,Green St & Washington Blvd,casual
+2.061,Greenview Ave & Diversey Pkwy,casual
+3.968,Greenview Ave & Diversey Pkwy,member
+6.138,Greenview Ave & Fullerton Ave,member
+2.427,Greenview Ave & Fullerton Ave,casual
+1.11,Greenview Ave & Jarvis Ave,casual
+2.101,Greenview Ave & Jarvis Ave,member
+0.58,Greenwood Ave & 47th St,casual
+2.072,Greenwood Ave & 47th St,member
+0.078,Greenwood Ave & 79th St,casual
+0.009,Greenwood Ave & 79th St,member
+0.068,Greenwood Ave & 91st St,casual
+0.003,Greenwood Ave & 97th St,member
+0.023,Greenwood Ave & 97th St,casual
+1.57,Griffin Museum of Science and Industry,member
+3.0,Griffin Museum of Science and Industry,casual
+0.08,Hale Ave & 107th St,casual
+0.058,Hale Ave & 107th St,member
+0.026,Halsted St & 104th St,casual
+0.017,Halsted St & 104th St,member
+0.114,Halsted St & 111th St,member
+0.022,Halsted St & 111th St,casual
+0.001,Halsted St & 123rd St,member
+2.855,Halsted St & 18th St,member
+1.514,Halsted St & 18th St,casual
+0.873,Halsted St & 21st St,casual
+1.676,Halsted St & 21st St,member
+1.769,Halsted St & 35th St,member
+0.845,Halsted St & 35th St,casual
+0.34,Halsted St & 37th St,member
+0.207,Halsted St & 37th St,casual
+0.078,Halsted St & 47th Pl,casual
+0.197,Halsted St & 47th Pl,member
+0.038,Halsted St & 51st St,casual
+0.143,Halsted St & 51st St,member
+0.061,Halsted St & 56th St,casual
+0.026,Halsted St & 56th St,member
+0.013,Halsted St & 59th St,member
+0.03,Halsted St & 59th St,casual
+0.075,Halsted St & 63rd St,member
+0.093,Halsted St & 63rd St,casual
+0.054,Halsted St & 69th St,casual
+0.048,Halsted St & 69th St,member
+0.038,Halsted St & 73rd St,casual
+0.023,Halsted St & 73rd St,member
+0.021,Halsted St & 78th St,casual
+0.116,Halsted St & 78th St,member
+0.002,Halsted St & 83rd St,member
+0.002,Halsted St & 93rd St,member
+0.002,Halsted St & 93rd St,casual
+0.128,Halsted St & 96th St,member
+0.041,Halsted St & 96th St,casual
+2.036,Halsted St & Archer Ave,member
+1.023,Halsted St & Archer Ave,casual
+13.471,Halsted St & Clybourn Ave,member
+6.011,Halsted St & Clybourn Ave,casual
+4.637,Halsted St & Dickens Ave,casual
+8.706,Halsted St & Dickens Ave,member
+14.064,Halsted St & Fulton St,member
+7.369,Halsted St & Fulton St,casual
+7.569,Halsted St & Maxwell St,member
+3.055,Halsted St & Maxwell St,casual
+0.646,Halsted St & North Branch St,casual
+1.407,Halsted St & North Branch St,member
+13.396,Halsted St & Polk St,member
+3.098,Halsted St & Polk St,casual
+1.804,Halsted St & Roosevelt Rd,casual
+6.096,Halsted St & Roosevelt Rd,member
+6.249,Halsted St & Roscoe St,casual
+11.006,Halsted St & Roscoe St,member
+6.959,Halsted St & Willow St,member
+3.087,Halsted St & Willow St,casual
+5.593,Halsted St & Wrightwood Ave,casual
+10.228,Halsted St & Wrightwood Ave,member
+0.003,Hamilton Park,member
+0.027,Hamilton Park,casual
+0.002,Hamlin Ave & 62nd Pl,member
+0.074,Hamlin Ave & 62nd Pl,casual
+0.146,Hamlin Ave & Grand Ave,member
+0.089,Hamlin Ave & Grand Ave,casual
+0.677,Hampden Ct & Diversey Ave,casual
+1.505,Hampden Ct & Diversey Ave,member
+0.074,Harding Ave & 26th St,casual
+0.053,Harding Ave & 26th St,member
+0.027,Harding Ave & 31st St,member
+0.072,Harding Ave & 31st St,casual
+0.056,Harding Ave & Chicago Ave,member
+0.046,Harding Ave & Chicago Ave,casual
+0.057,Harding Ave & Division St,member
+0.081,Harding Ave & Division St,casual
+0.058,Harlem & Irving Park,casual
+0.023,Harlem & Irving Park,member
+0.068,Harlem Ave & Bloomingdale Ave,casual
+0.065,Harlem Ave & Bloomingdale Ave,member
+0.064,Harlem Ave & Grace St,casual
+0.023,Harlem Ave & Grace St,member
+0.163,Harlem Ave & Irving Park Rd,casual
+0.078,Harlem Ave & Irving Park Rd,member
+2.161,Harper Ave & 59th St,member
+0.728,Harper Ave & 59th St,casual
+0.007,Hegewisch Metra Station,member
+0.088,Hegewisch Metra Station,casual
+1.088,Hermitage Ave & Polk St,casual
+5.153,Hermitage Ave & Polk St,member
+0.018,Homan Ave & 26th St,member
+0.049,Homan Ave & 26th St,casual
+0.022,Homan Ave & 65th St,casual
+0.02,Homan Ave & 65th St,member
+0.011,Homan Ave & 77th St,casual
+0.011,Homan Ave & Arthington Ave,casual
+0.007,Homan Ave & Arthington Ave,member
+0.016,Homan Ave & Fillmore St,member
+0.029,Homan Ave & Fillmore St,casual
+0.035,Homewood Ave & 115th St,casual
+0.007,Homewood Ave & 115th St,member
+8.255,Honore St & Division St,member
+3.394,Honore St & Division St,casual
+0.055,Houston Ave & 92nd St,member
+0.05,Houston Ave & 92nd St,casual
+0.156,Hoyne Ave & 34th St,member
+0.048,Hoyne Ave & 34th St,casual
+0.223,Hoyne Ave & 47th St,casual
+0.236,Hoyne Ave & 47th St,member
+0.899,Hoyne Ave & Balmoral Ave,casual
+1.616,Hoyne Ave & Balmoral Ave,member
+1.959,Humboldt Blvd & Armitage Ave,casual
+2.909,Humboldt Blvd & Armitage Ave,member
+0.059,Indiana Ave & 103rd St,casual
+0.02,Indiana Ave & 103rd St,member
+0.005,Indiana Ave & 133rd St,member
+0.014,Indiana Ave & 133rd St,casual
+2.708,Indiana Ave & 26th St,member
+1.179,Indiana Ave & 26th St,casual
+0.702,Indiana Ave & 31st St,casual
+3.515,Indiana Ave & 31st St,member
+0.114,Indiana Ave & 40th St,member
+0.19,Indiana Ave & 40th St,casual
+11.808,Indiana Ave & Roosevelt Rd,casual
+13.973,Indiana Ave & Roosevelt Rd,member
+6.5,Jefferson St & Monroe St,member
+2.626,Jefferson St & Monroe St,casual
+0.142,Jeffery Blvd & 67th St,casual
+0.238,Jeffery Blvd & 67th St,member
+0.287,Jeffery Blvd & 71st St,member
+0.11,Jeffery Blvd & 71st St,casual
+0.05,Jeffery Blvd & 76th St,casual
+0.04,Jeffery Blvd & 76th St,member
+0.446,Karlov Ave & Armitage Ave,member
+0.319,Karlov Ave & Armitage Ave,casual
+0.184,Karlov Ave & Lawrence Ave,casual
+0.244,Karlov Ave & Lawrence Ave,member
+0.057,Karlov Ave & Madison St,casual
+0.056,Karlov Ave & Madison St,member
+0.322,Kedvale Ave & Peterson Ave,member
+0.083,Kedvale Ave & Peterson Ave,casual
+0.043,Kedzie Ave & 104th St,casual
+0.017,Kedzie Ave & 110th St,member
+0.051,Kedzie Ave & 110th St,casual
+0.356,Kedzie Ave & 21st St,member
+0.22,Kedzie Ave & 21st St,casual
+0.063,Kedzie Ave & 24th St,casual
+0.052,Kedzie Ave & 24th St,member
+0.017,Kedzie Ave & 38th St,casual
+0.006,Kedzie Ave & 38th St,member
+0.048,Kedzie Ave & 45th St,member
+0.02,Kedzie Ave & 45th St,casual
+0.546,Kedzie Ave & 48th Pl,casual
+0.276,Kedzie Ave & 48th Pl,member
+0.029,Kedzie Ave & 52nd St,member
+0.067,Kedzie Ave & 52nd St,casual
+0.048,Kedzie Ave & 54th Pl,casual
+0.04,Kedzie Ave & 54th Pl,member
+0.167,Kedzie Ave & 57th St,casual
+0.099,Kedzie Ave & 57th St,member
+0.026,Kedzie Ave & 60th St,member
+0.035,Kedzie Ave & 60th St,casual
+0.026,Kedzie Ave & 66th Pl,member
+0.053,Kedzie Ave & 66th Pl,casual
+0.031,Kedzie Ave & 73rd St,member
+0.023,Kedzie Ave & 73rd St,casual
+0.004,Kedzie Ave & 83rd St,member
+0.069,Kedzie Ave & 83rd St,casual
+0.028,Kedzie Ave & Archer Ave,member
+0.037,Kedzie Ave & Archer Ave,casual
+0.521,Kedzie Ave & Bryn Mawr Ave,member
+0.252,Kedzie Ave & Bryn Mawr Ave,casual
+0.196,Kedzie Ave & Chicago Ave,casual
+0.4,Kedzie Ave & Chicago Ave,member
+0.547,Kedzie Ave & Foster Ave,member
+0.442,Kedzie Ave & Foster Ave,casual
+0.473,Kedzie Ave & George St,casual
+0.628,Kedzie Ave & George St,member
+0.066,Kedzie Ave & Harrison St,member
+0.044,Kedzie Ave & Harrison St,casual
+0.033,Kedzie Ave & Jackson Blvd,casual
+0.062,Kedzie Ave & Jackson Blvd,member
+0.278,Kedzie Ave & Lake St,casual
+0.42,Kedzie Ave & Lake St,member
+0.681,Kedzie Ave & Leland Ave,casual
+1.727,Kedzie Ave & Leland Ave,member
+4.05,Kedzie Ave & Milwaukee Ave,casual
+6.122,Kedzie Ave & Milwaukee Ave,member
+2.94,Kedzie Ave & Palmer Ct,member
+1.63,Kedzie Ave & Palmer Ct,casual
+0.012,Kedzie Ave & Redfield Dr,member
+0.133,Kedzie Ave & Redfield Dr,casual
+0.046,Kedzie Ave & Roosevelt Rd,casual
+0.046,Kedzie Ave & Roosevelt Rd,member
+0.265,Keeler Ave & Carmen Ave,casual
+0.201,Keeler Ave & Carmen Ave,member
+0.016,Keeler Ave & Roosevelt Rd,casual
+0.014,Keeler Ave & Roosevelt Rd,member
+0.057,Kenneth Ave & 50th St,casual
+0.019,Kenneth Ave & 50th St,member
+0.199,Kenneth Ave & Lawrence Ave,casual
+0.273,Kenneth Ave & Lawrence Ave,member
+0.216,Kenosha Ave & Wellington Ave,casual
+0.262,Kenosha Ave & Wellington Ave,member
+0.022,Kenton Ave & Madison St,member
+0.034,Kenton Ave & Madison St,casual
+0.422,Keystone Ave & Fullerton Ave,casual
+0.808,Keystone Ave & Fullerton Ave,member
+0.37,Keystone Ave & Montrose Ave,casual
+0.851,Keystone Ave & Montrose Ave,member
+0.003,Kilbourn & Belden,casual
+0.017,Kilbourn & Belden,member
+0.006,Kilbourn Ave & 49th St,member
+0.039,Kilbourn Ave & 49th St,casual
+0.098,Kilbourn Ave & Belden Ave,casual
+0.324,Kilbourn Ave & Belden Ave,member
+0.146,Kilbourn Ave & Diversey Ave,casual
+0.198,Kilbourn Ave & Diversey Ave,member
+0.299,Kilbourn Ave & Irving Park Rd,casual
+0.557,Kilbourn Ave & Irving Park Rd,member
+0.231,Kilbourn Ave & Milwaukee Ave,casual
+0.328,Kilbourn Ave & Milwaukee Ave,member
+0.193,Kilbourn Ave & Roscoe St,member
+0.206,Kilbourn Ave & Roscoe St,casual
+0.01,Kildare & Cermak,member
+0.035,Kildare & Cermak,casual
+0.002,Kildare & Chicago Ave,member
+0.004,Kildare & Chicago Ave,casual
+0.042,Kildare Ave & 26th St,member
+0.073,Kildare Ave & 26th St,casual
+0.026,Kildare Ave & 47th St,member
+0.056,Kildare Ave & 47th St,casual
+0.01,Kildare Ave & 55th St,member
+0.085,Kildare Ave & 55th St,casual
+0.001,Kildare Ave & 85th St,member
+0.019,Kildare Ave & 85th St,casual
+0.02,Kildare Ave & 85th St (Kostner Ave & 87th St TEMPORARY),casual
+0.005,Kildare Ave & 85th St (Kostner Ave & 87th St TEMPORARY),member
+0.018,Kildare Ave & Archer Ave,member
+0.017,Kildare Ave & Archer Ave,casual
+0.02,Kildare Ave & Chicago Ave,member
+0.062,Kildare Ave & Chicago Ave,casual
+0.04,Kildare Ave & Division St,member
+0.067,Kildare Ave & Division St,casual
+0.496,Kildare Ave & Montrose Ave,member
+0.3,Kildare Ave & Montrose Ave,casual
+0.115,Kildare Ave & North Ave,member
+0.079,Kildare Ave & North Ave,casual
+0.084,Kilpatrick Ave & Grand Ave,casual
+0.114,Kilpatrick Ave & Grand Ave,member
+0.094,Kilpatrick Ave & Parker Ave,casual
+0.088,Kilpatrick Ave & Parker Ave,member
+1.132,Kimball Ave & Belmont Ave,casual
+1.723,Kimball Ave & Belmont Ave,member
+11.58,Kimbark Ave & 53rd St,member
+4.025,Kimbark Ave & 53rd St,casual
+5.262,Kingsbury St & Erie St,casual
+15.211,Kingsbury St & Erie St,member
+29.212,Kingsbury St & Kinzie St,member
+10.036,Kingsbury St & Kinzie St,casual
+0.007,Knox Ave & Marquette Ave,member
+0.079,Knox Ave & Marquette Ave,casual
+0.704,Knox Ave & Montrose Ave,member
+0.425,Knox Ave & Montrose Ave,casual
+0.259,Komensky Ave & 31st St,member
+0.057,Komensky Ave & 31st St,casual
+0.051,Komensky Ave & 47th St,casual
+0.049,Komensky Ave & 47th St,member
+0.082,Komensky Ave & 55th St,casual
+0.033,Komensky Ave & 55th St,member
+0.937,Kosciuszko Park,casual
+1.432,Kosciuszko Park,member
+0.026,Kostner Ave & 63rd St,member
+0.077,Kostner Ave & 63rd St,casual
+0.204,Kostner Ave & Adams St,member
+0.024,Kostner Ave & Adams St,casual
+0.081,Kostner Ave & Belmont Ave,casual
+0.093,Kostner Ave & Belmont Ave,member
+0.172,Kostner Ave & Bryn Mawr Ave,member
+0.203,Kostner Ave & Bryn Mawr Ave,casual
+0.084,Kostner Ave & Devon Ave,member
+0.181,Kostner Ave & Devon Ave,casual
+0.02,Kostner Ave & Lake St,member
+0.062,Kostner Ave & Lake St,casual
+0.463,Kostner Ave & Wrightwood Ave,member
+0.215,Kostner Ave & Wrightwood Ave,casual
+0.048,La Villita Park,casual
+0.019,La Villita Park,member
+0.015,La Villita Park (Albany/30th),casual
+4.467,LaSalle Dr & Huron St,casual
+7.025,LaSalle Dr & Huron St,member
+3.439,LaSalle St & Adams St,member
+1.932,LaSalle St & Adams St,casual
+9.637,LaSalle St & Illinois St,casual
+13.796,LaSalle St & Illinois St,member
+12.943,LaSalle St & Jackson Blvd,member
+3.81,LaSalle St & Jackson Blvd,casual
+5.967,LaSalle St & Washington St,member
+2.431,LaSalle St & Washington St,casual
+0.001,Laflin St & 115th St,member
+1.742,Laflin St & Cullerton St,member
+1.036,Laflin St & Cullerton St,casual
+2.203,Lake Park Ave & 35th St,member
+1.242,Lake Park Ave & 35th St,casual
+0.908,Lake Park Ave & 47th St,casual
+1.238,Lake Park Ave & 47th St,member
+2.273,Lake Park Ave & 53rd St,casual
+4.807,Lake Park Ave & 53rd St,member
+2.92,Lake Park Ave & 56th St,casual
+6.616,Lake Park Ave & 56th St,member
+5.803,Lakefront Trail & Bryn Mawr Ave,casual
+6.645,Lakefront Trail & Bryn Mawr Ave,member
+3.302,Lakefront Trail & Wilson Ave,member
+4.084,Lakefront Trail & Wilson Ave,casual
+10.255,Lakeview Ave & Fullerton Pkwy,member
+7.134,Lakeview Ave & Fullerton Pkwy,casual
+0.003,Lamon Ave & 47th St,member
+0.011,Lamon Ave & 47th St,casual
+0.081,Lamon Ave & Armitage Ave,casual
+0.102,Lamon Ave & Armitage Ave,member
+0.071,Lamon Ave & Belmont Ave,member
+0.11,Lamon Ave & Belmont Ave,casual
+0.083,Lamon Ave & Chicago Ave,casual
+0.025,Lamon Ave & Chicago Ave,member
+0.087,Laramie Ave & Addison St,casual
+0.048,Laramie Ave & Addison St,member
+0.027,Laramie Ave & Bloomingdale Ave,casual
+0.026,Laramie Ave & Bloomingdale Ave,member
+0.045,Laramie Ave & Gladys Ave,member
+0.024,Laramie Ave & Gladys Ave,casual
+0.079,Laramie Ave & Irving Park Rd,member
+0.165,Laramie Ave & Irving Park Rd,casual
+0.043,Laramie Ave & Kinzie St,member
+0.066,Laramie Ave & Kinzie St,casual
+0.064,Laramie Ave & Madison St,member
+0.073,Laramie Ave & Madison St,casual
+2.983,Larrabee St & Armitage Ave,casual
+4.936,Larrabee St & Armitage Ave,member
+3.586,Larrabee St & Division St,casual
+6.77,Larrabee St & Division St,member
+4.771,Larrabee St & Kingsbury St,casual
+17.249,Larrabee St & Kingsbury St,member
+4.022,Larrabee St & Menomonee St,member
+1.345,Larrabee St & Menomonee St,casual
+1.997,Larrabee St & North Ave,casual
+4.855,Larrabee St & North Ave,member
+2.146,Larrabee St & Oak St,casual
+6.84,Larrabee St & Oak St,member
+6.88,Larrabee St & Webster Ave,casual
+10.617,Larrabee St & Webster Ave,member
+0.018,Latrobe Ave & Chicago Ave,casual
+0.062,Latrobe Ave & Chicago Ave,member
+0.002,Lavergne Ave & 44th St,casual
+0.002,Lavergne Ave & 44th St,member
+0.008,Lavergne Ave & 46th St,member
+0.048,Lavergne Ave & 46th St,casual
+0.05,Lavergne Ave & Diversey Ave,casual
+0.052,Lavergne Ave & Diversey Ave,member
+0.057,Lavergne Ave & Division St,casual
+0.088,Lavergne Ave & Division St,member
+0.156,Lavergne Ave & Fullerton Ave,casual
+0.164,Lavergne Ave & Fullerton Ave,member
+0.165,Lavergne Ave & Lawrence Ave,member
+0.039,Lavergne Ave & Lawrence Ave,casual
+0.038,Lawler Ave & 50th St,member
+0.103,Lawler Ave & 50th St,casual
+0.064,Lawler Ave & North Ave,member
+0.021,Lawler Ave & North Ave,casual
+0.031,Lawndale Ave & 111th St,member
+0.117,Lawndale Ave & 111th St,casual
+0.004,Lawndale Ave & 16th St,member
+0.047,Lawndale Ave & 16th St,casual
+0.141,Lawndale Ave & 30th St,casual
+0.023,Lawndale Ave & 30th St,member
+0.01,Lawndale Ave & 59th St,casual
+0.006,Lawndale Ave & 59th St,member
+0.019,Leamington Ave & Hirsch St,member
+0.034,Leamington Ave & Hirsch St,casual
+1.004,Leavitt St & Addison St,casual
+1.524,Leavitt St & Addison St,member
+0.567,Leavitt St & Archer Ave,member
+0.484,Leavitt St & Archer Ave,casual
+4.275,Leavitt St & Armitage Ave,member
+1.906,Leavitt St & Armitage Ave,casual
+1.92,Leavitt St & Belmont Ave,casual
+2.604,Leavitt St & Belmont Ave,member
+1.679,Leavitt St & Chicago Ave,casual
+3.169,Leavitt St & Chicago Ave,member
+1.333,Leavitt St & Division St,casual
+3.013,Leavitt St & Division St,member
+2.408,Leavitt St & Lawrence Ave,member
+1.415,Leavitt St & Lawrence Ave,casual
+3.589,Leavitt St & North Ave,member
+1.388,Leavitt St & North Ave,casual
+1.812,Leavitt St/North Ave,member
+0.69,Leavitt St/North Ave,casual
+0.11,Leclaire Ave & Belmont Ave,member
+0.124,Leclaire Ave & Belmont Ave,casual
+0.001,Lexington & California Ave,member
+0.005,Lexington & California Ave,casual
+0.074,Lexington St & California Ave,casual
+0.112,Lexington St & California Ave,member
+1.355,Lincoln Ave & Addison St,casual
+2.498,Lincoln Ave & Addison St,member
+0.392,Lincoln Ave & Balmoral Ave,member
+0.181,Lincoln Ave & Balmoral Ave,casual
+3.352,Lincoln Ave & Belle Plaine Ave,member
+1.642,Lincoln Ave & Belle Plaine Ave,casual
+1.522,Lincoln Ave & Byron St,casual
+3.054,Lincoln Ave & Byron St,member
+7.249,Lincoln Ave & Diversey Pkwy,member
+3.738,Lincoln Ave & Diversey Pkwy,casual
+5.949,Lincoln Ave & Fullerton Ave,casual
+12.927,Lincoln Ave & Fullerton Ave,member
+7.215,Lincoln Ave & Melrose St,member
+2.707,Lincoln Ave & Melrose St,casual
+0.609,Lincoln Ave & Peterson Ave,member
+0.26,Lincoln Ave & Peterson Ave,casual
+5.986,Lincoln Ave & Roscoe St*,member
+2.362,Lincoln Ave & Roscoe St*,casual
+1.984,Lincoln Ave & Sunnyside Ave,casual
+3.873,Lincoln Ave & Sunnyside Ave,member
+3.177,Lincoln Ave & Waveland Ave,member
+1.132,Lincoln Ave & Waveland Ave,casual
+1.33,Lincoln Ave & Winona St,member
+0.589,Lincoln Ave & Winona St,casual
+6.027,Lincoln Park Conservatory,member
+7.158,Lincoln Park Conservatory,casual
+0.25,Lincolnwood Dr & Central St,member
+0.28,Lincolnwood Dr & Central St,casual
+0.087,Linder Ave & Montrose Ave,casual
+0.132,Linder Ave & Montrose Ave,member
+0.068,Lockwood Ave & Grand Ave,casual
+0.109,Lockwood Ave & Grand Ave,member
+0.121,Lockwood Ave & Wrightwood Ave,casual
+0.278,Lockwood Ave & Wrightwood Ave,member
+0.012,Lockwood Ave and Grand Ave,member
+0.014,Lockwood Ave and Grand Ave,casual
+1.356,Logan Blvd & Elston Ave,casual
+3.575,Logan Blvd & Elston Ave,member
+0.296,Long & Irving Park,casual
+0.229,Long & Irving Park,member
+0.056,Long Ave & Belden Ave,casual
+0.084,Long Ave & Belden Ave,member
+0.132,Long Ave & Belmont Ave,casual
+0.212,Long Ave & Belmont Ave,member
+0.043,Long Ave & Diversey Ave,member
+0.046,Long Ave & Diversey Ave,casual
+0.033,Long Ave & North Ave,casual
+0.013,Long Ave & North Ave,member
+0.153,Loomis Blvd & 84th St,casual
+0.009,Loomis Blvd & 84th St,member
+0.124,Loomis St & 89th St,casual
+0.033,Loomis St & 89th St,member
+0.003,Loomis St & 95th St,member
+1.007,Loomis St & Archer Ave,member
+0.485,Loomis St & Archer Ave,casual
+1.596,Loomis St & Jackson Blvd,casual
+4.497,Loomis St & Jackson Blvd,member
+15.276,Loomis St & Lexington St,member
+2.872,Loomis St & Lexington St,casual
+0.082,Lowell Ave & Armitage,member
+0.083,Lowell Ave & Armitage,casual
+0.073,Lowell Ave & Armitage Ave,member
+0.102,Lowell Ave & Armitage Ave,casual
+0.002,Lynch Ave & Elston Ave,member
+1.65,MLK Jr Dr & 29th St,casual
+12.729,MLK Jr Dr & 29th St,member
+0.417,MLK Jr Dr & 47th St,member
+0.247,MLK Jr Dr & 47th St,casual
+0.168,MLK Jr Dr & 56th St,member
+0.165,MLK Jr Dr & 56th St,casual
+0.099,MLK Jr Dr & 63rd St,member
+0.177,MLK Jr Dr & 63rd St,casual
+0.023,MLK Jr Dr & 83rd St,casual
+0.085,MLK Jr Dr & 83rd St,member
+0.893,MLK Jr Dr & Pershing Rd,member
+0.542,MLK Jr Dr & Pershing Rd,casual
+0.048,MTV Hubbard St,casual
+0.14,MTV Hubbard St,member
+0.082,Major Ave & Addison St,member
+0.076,Major Ave & Addison St,casual
+0.007,Major Ave & Bloomingdale Ave,member
+0.026,Major Ave & Bloomingdale Ave,casual
+0.023,Major Taylor Trail & 115th St,casual
+0.035,Major Taylor Trail & 115th St,member
+0.02,Major Taylor Trail & 124th St,casual
+0.007,Major Taylor Trail & 124th St,member
+1.453,Malcolm X College,member
+0.627,Malcolm X College,casual
+0.067,Mango Ave & Diversey Ave,member
+0.068,Mango Ave & Diversey Ave,casual
+0.053,Mango Ave & North Ave,casual
+0.009,Mango Ave & North Ave,member
+0.006,Manistee Ave & 95th St,casual
+0.001,Manistee Ave & 95th St,member
+0.553,Manor Ave & Leland Ave,casual
+1.118,Manor Ave & Leland Ave,member
+0.036,Maplewood Ave & 59th St,casual
+0.058,Maplewood Ave & 59th St,member
+0.167,Maplewood Ave & Peterson Ave,casual
+0.503,Maplewood Ave & Peterson Ave,member
+2.846,Marine Dr & Ainslie St,casual
+4.23,Marine Dr & Ainslie St,member
+0.005,Market Days Scooter Corral,member
+0.005,Market Days Scooter Corral,casual
+0.057,Marmora Ave & Belmont Ave,casual
+0.022,Marmora Ave & Belmont Ave,member
+0.107,Marmora Ave & Irving Park Rd,casual
+0.047,Marmora Ave & Irving Park Rd,member
+0.015,Marquette Ave & 89th St,member
+0.048,Marquette Ave & 89th St,casual
+0.109,Marshfield Ave & 44th St,member
+0.061,Marshfield Ave & 44th St,casual
+0.031,Marshfield Ave & 59th St,casual
+0.038,Marshfield Ave & 59th St,member
+0.035,Martin Luther King Dr & 111th St,casual
+0.039,Martin Luther King Dr & 111th St,member
+0.01,Martin Luther King Dr & 87th St,casual
+0.008,Martin Luther King Dr & 87th St,member
+0.035,Maryland Ave & 104th St,casual
+0.002,Maryland Ave & 104th St,member
+0.061,Mason Ave & Belmont Ave,casual
+0.028,Mason Ave & Belmont Ave,member
+0.043,Mason Ave & Grand Ave,member
+0.044,Mason Ave & Grand Ave,casual
+0.015,Mason Ave & Montrose Ave,casual
+0.017,Mason Ave & Montrose Ave,member
+0.053,May St & 69th St,casual
+0.211,May St & 69th St,member
+2.008,May St & Cullerton St,member
+0.782,May St & Cullerton St,casual
+9.058,May St & Taylor St,member
+1.98,May St & Taylor St,casual
+0.005,Mayfield & Roosevelt Rd,casual
+0.004,Mayfield & Roosevelt Rd,member
+0.027,Mayfield Ave & Roosevelt Rd,member
+0.038,Mayfield Ave & Roosevelt Rd,casual
+5.304,McClurg Ct & Erie St,casual
+11.513,McClurg Ct & Erie St,member
+8.763,McClurg Ct & Ohio St,casual
+13.047,McClurg Ct & Ohio St,member
+0.712,McCormick Blvd & Devon Ave,member
+0.502,McCormick Blvd & Devon Ave,casual
+5.712,McCormick Place,casual
+2.508,McCormick Place,member
+0.055,Meade Ave & Addison St,casual
+0.059,Meade Ave & Addison St,member
+0.055,Meade Ave & Diversey Ave,member
+0.068,Meade Ave & Diversey Ave,casual
+0.083,Meade Ave & Fullerton Ave,member
+0.09,Meade Ave & Fullerton Ave,casual
+0.004,Melvina Ave & Giddings Ave,casual
+0.005,Melvina Ave & Giddings Ave,member
+0.003,Menard Ave & Division St,casual
+0.002,Menard Ave & Division St,member
+0.059,Menard Ave & Lawrence Ave,casual
+0.167,Menard Ave & Lawrence Ave,member
+0.001,Menard Ave & Milwaukee Ave,member
+0.001,Menard Ave & Milwaukee Ave,casual
+0.028,Menard Ave & North Ave,casual
+0.004,Menard Ave & North Ave,member
+0.061,Merrimac Park,member
+0.104,Merrimac Park,casual
+0.003,Michigan Ave & 105th St,member
+0.032,Michigan Ave & 105th St,casual
+0.004,Michigan Ave & 108th St,casual
+0.001,Michigan Ave & 108th St,member
+0.002,Michigan Ave & 113th St,member
+0.001,Michigan Ave & 113th St,casual
+0.01,Michigan Ave & 114th St,member
+0.02,Michigan Ave & 114th St,casual
+8.41,Michigan Ave & 14th St,member
+4.428,Michigan Ave & 14th St,casual
+6.029,Michigan Ave & 18th St,member
+3.935,Michigan Ave & 18th St,casual
+0.108,Michigan Ave & 71st St,member
+0.016,Michigan Ave & 71st St,casual
+7.066,Michigan Ave & 8th St,member
+13.322,Michigan Ave & 8th St,casual
+2.849,Michigan Ave & Ida B Wells Dr,member
+4.399,Michigan Ave & Ida B Wells Dr,casual
+5.958,Michigan Ave & Jackson Blvd,member
+6.944,Michigan Ave & Jackson Blvd,casual
+12.56,Michigan Ave & Lake St,member
+9.284,Michigan Ave & Lake St,casual
+5.72,Michigan Ave & Madison St,member
+5.226,Michigan Ave & Madison St,casual
+14.292,Michigan Ave & Oak St,member
+24.738,Michigan Ave & Oak St,casual
+5.104,Michigan Ave & Pearson St,member
+5.395,Michigan Ave & Pearson St,casual
+13.604,Michigan Ave & Washington St,member
+10.497,Michigan Ave & Washington St,casual
+0.094,Midway Orange Line,member
+0.265,Midway Orange Line,casual
+8.43,Mies van der Rohe Way & Chestnut St,member
+6.353,Mies van der Rohe Way & Chestnut St,casual
+4.776,Mies van der Rohe Way & Chicago Ave,casual
+9.013,Mies van der Rohe Way & Chicago Ave,member
+0.113,Millard Ave & 26th St,casual
+0.159,Millard Ave & 26th St,member
+22.18,Millennium Park,casual
+10.383,Millennium Park,member
+0.217,Milwaukee Ave & Agatite Ave,member
+0.086,Milwaukee Ave & Agatite Ave,casual
+0.272,Milwaukee Ave & Ainslie St,casual
+0.332,Milwaukee Ave & Ainslie St,member
+0.311,Milwaukee Ave & Cuyler Ave,casual
+0.42,Milwaukee Ave & Cuyler Ave,member
+1.951,Milwaukee Ave & Fullerton Ave,member
+1.59,Milwaukee Ave & Fullerton Ave,casual
+9.942,Milwaukee Ave & Grand Ave,member
+5.146,Milwaukee Ave & Grand Ave,casual
+2.247,Milwaukee Ave & Rockwell St,member
+1.594,Milwaukee Ave & Rockwell St,casual
+8.203,Milwaukee Ave & Wabansia Ave,member
+3.602,Milwaukee Ave & Wabansia Ave,casual
+0.021,Monitor Ave & Division St,casual
+0.021,Monitor Ave & Division St,member
+0.063,Monticello Ave & Chicago Ave,casual
+0.058,Monticello Ave & Chicago Ave,member
+1.76,Monticello Ave & Irving Park Rd,member
+0.547,Monticello Ave & Irving Park Rd,casual
+0.406,Monticello Ave & Lawrence Ave,casual
+0.671,Monticello Ave & Lawrence Ave,member
+7.655,Montrose Harbor,member
+11.047,Montrose Harbor,casual
+3.231,Morgan Ave & 14th Pl,member
+1.187,Morgan Ave & 14th Pl,casual
+1.932,Morgan St & 18th St,casual
+3.701,Morgan St & 18th St,member
+0.919,Morgan St & 31st St,casual
+2.969,Morgan St & 31st St,member
+3.483,Morgan St & Lake St*,casual
+8.566,Morgan St & Lake St*,member
+0.095,Morgan St & Pershing Rd,member
+0.048,Morgan St & Pershing Rd,casual
+16.142,Morgan St & Polk St,member
+2.941,Morgan St & Polk St,casual
+0.037,Mozart St & 55th St,member
+0.023,Mozart St & 55th St,casual
+0.005,Mozart St & 79th St,casual
+0.003,Mozart St & 79th St,member
+0.054,Mozart St & Jackson Blvd,member
+0.057,Mozart St & Jackson Blvd,casual
+0.04,Mulligan Ave & Archer Ave,member
+0.013,Mulligan Ave & Archer Ave,casual
+0.012,Mulligan Ave & Wellington Ave,casual
+0.009,Mulligan Ave & Wellington Ave,member
+0.736,Museum of Science and Industry,casual
+0.492,Museum of Science and Industry,member
+1.876,N Carpenter St & W Lake St,member
+0.74,N Carpenter St & W Lake St,casual
+0.422,N Clark St & W Elm St,member
+0.216,N Clark St & W Elm St,casual
+0.351,N Damen Ave & W Chicago Ave,casual
+0.971,N Damen Ave & W Chicago Ave,member
+2.085,N Green St & W Lake St,casual
+4.078,N Green St & W Lake St,member
+0.498,N Paulina St & Lincoln Ave,casual
+1.299,N Paulina St & Lincoln Ave,member
+0.191,N Sheffield Ave & W Wellington Ave,casual
+0.448,N Sheffield Ave & W Wellington Ave,member
+0.633,N Shore Channel Trail & Argyle St,member
+0.336,N Shore Channel Trail & Argyle St,casual
+1.024,N Southport Ave & W Newport Ave,member
+0.659,N Southport Ave & W Newport Ave,casual
+0.001,NEW HASTINGS ,member
+0.03,Nagle Ave & Belmont Ave,member
+0.035,Nagle Ave & Belmont Ave,casual
+0.052,Narragansett & Irving Park,casual
+0.088,Narragansett & Irving Park,member
+0.014,Narragansett & McLean,casual
+0.012,Narragansett & McLean,member
+0.039,Narragansett & Wrightwood,member
+0.062,Narragansett & Wrightwood,casual
+0.088,Narragansett Ave & McLean Ave,casual
+0.053,Narragansett Ave & McLean Ave,member
+0.068,Narragansett Ave & Montrose Ave,member
+0.113,Narragansett Ave & Montrose Ave,casual
+0.001,Narragansett Ave & North Ave,member
+0.001,Narragansett Ave & North Ave,casual
+0.068,Narragansett Ave & School St,casual
+0.12,Narragansett Ave & School St,member
+0.222,Narragansett Ave & Wrightwood Ave,casual
+0.155,Narragansett Ave & Wrightwood Ave,member
+10.508,New St & Illinois St,casual
+12.06,New St & Illinois St,member
+0.002,Newcastle Ave & Irving Park Rd,casual
+0.008,Newcastle Ave & Irving Park Rd,member
+2.322,Noble St & Milwaukee Ave,casual
+5.383,Noble St & Milwaukee Ave,member
+0.007,Nordica & Medill,member
+0.013,Nordica & Medill,casual
+0.062,Nordica Ave & Medill Ave,casual
+0.12,Nordica Ave & Medill Ave,member
+0.354,Normal Ave & Archer Ave,casual
+1.043,Normal Ave & Archer Ave,member
+0.038,North Ave & New England Ave,casual
+0.034,North Ave & New England Ave,member
+0.151,North Boundary Park,casual
+0.238,North Boundary Park,member
+0.058,Oak Park & Wellington,casual
+0.118,Oak Park & Wellington,member
+1.777,Oakley Ave & Irving Park Rd,member
+0.714,Oakley Ave & Irving Park Rd,casual
+0.323,Oakley Ave & Touhy Ave,casual
+0.413,Oakley Ave & Touhy Ave,member
+0.026,Oconto Ave & Belmont Ave,casual
+0.01,Oconto Ave & Belmont Ave,member
+8.574,Ogden Ave & Chicago Ave,member
+4.323,Ogden Ave & Chicago Ave,casual
+2.889,Ogden Ave & Congress Pkwy,member
+0.907,Ogden Ave & Congress Pkwy,casual
+6.711,Ogden Ave & Race Ave,member
+2.749,Ogden Ave & Race Ave,casual
+0.367,Ogden Ave & Roosevelt Rd,casual
+1.564,Ogden Ave & Roosevelt Rd,member
+0.079,Oglesby Ave & 100th St,member
+0.034,Oglesby Ave & 100th St,casual
+0.001,Oketo Ave & Addison,casual
+0.046,Oketo Ave & Addison St,casual
+0.017,Oketo Ave & Addison St,member
+0.021,Olive Harvey College,casual
+0.005,Olive Harvey College,member
+0.007,Orange & Addison,member
+0.034,Orange & Addison,casual
+0.03,Orange Ave & Addison St,member
+0.053,Orange Ave & Addison St,casual
+0.006,Oriole Ave & Irving Park Rd,member
+0.004,Oriole Ave & Irving Park Rd,casual
+5.848,Orleans St & Chestnut St (NEXT Apts),member
+2.482,Orleans St & Chestnut St (NEXT Apts),casual
+1.725,Orleans St & Elm St,casual
+4.466,Orleans St & Elm St,member
+6.399,Orleans St & Hubbard St,member
+2.519,Orleans St & Hubbard St,casual
+6.808,Orleans St & Merchandise Mart Plaza,casual
+13.561,Orleans St & Merchandise Mart Plaza,member
+0.01,Overhill Ave & Belmont Ave,casual
+0.017,Overhill Ave & Belmont Ave,member
+0.018,Panama Ave & Grace St,casual
+0.006,Panama Ave & Grace St,member
+0.019,Parkside Ave & Armitage Ave,member
+0.021,Parkside Ave & Armitage Ave,casual
+0.001,Parnell Ave & 127th St,member
+0.021,Paulina Ave & 87th St,casual
+0.021,Paulina Ave & 87th St,member
+4.964,Paulina Ave & North Ave,member
+2.356,Paulina Ave & North Ave,casual
+2.807,Paulina St & 18th St,member
+1.602,Paulina St & 18th St,casual
+1.443,Paulina St & Flournoy St,casual
+7.348,Paulina St & Flournoy St,member
+1.079,Paulina St & Howard St,member
+1.032,Paulina St & Howard St,casual
+1.358,Paulina St & Montrose Ave,casual
+4.142,Paulina St & Montrose Ave,member
+4.296,Peoria St & Jackson Blvd,casual
+12.901,Peoria St & Jackson Blvd,member
+0.183,Perry Ave & 69th St,casual
+0.105,Perry Ave & 69th St,member
+0.013,Pershing Rd & Sacramento Ave,member
+0.097,Pershing Rd & Sacramento Ave,casual
+0.011,Peterson/Ridge Metra,casual
+0.076,Peterson/Ridge Metra,member
+0.046,Phillips Ave & 79th St,member
+0.081,Phillips Ave & 79th St,casual
+0.02,Phillips Ave & 83rd St,member
+0.017,Phillips Ave & 83rd St,casual
+0.028,Pine Ave & Division St,casual
+0.009,Pine Ave & Division St,member
+10.63,Pine Grove Ave & Irving Park Rd,member
+4.087,Pine Grove Ave & Irving Park Rd,casual
+5.615,Pine Grove Ave & Waveland Ave,casual
+12.271,Pine Grove Ave & Waveland Ave,member
+0.665,Ping Tom Park (East),member
+0.464,Ping Tom Park (East),casual
+0.024,Pittsburgh Ave & Irving Park Rd,member
+0.049,Pittsburgh Ave & Irving Park Rd,casual
+0.015,Plainfield & Irving Park,casual
+0.001,Plainfield & Irving Park,member
+0.006,Portage Park,casual
+0.017,Portage Park,member
+0.403,Prairie Ave & 43rd St,casual
+0.281,Prairie Ave & 43rd St,member
+0.503,Prairie Ave & Garfield Blvd,casual
+0.729,Prairie Ave & Garfield Blvd,member
+0.202,Princeton Ave & 47th St,casual
+0.2,Princeton Ave & 47th St,member
+0.021,Princeton Ave & 95th St,casual
+0.007,Princeton Ave & 95th St,member
+0.102,Princeton Ave & Garfield Blvd,casual
+0.157,Princeton Ave & Garfield Blvd,member
+0.092,Prospect Sq & 91st St,member
+0.099,Prospect Sq & 91st St,casual
+0.004,Public Rack - 10101 S Stony Island Ave,casual
+0.002,Public Rack - 10101 S Stony Island Ave,member
+0.003,Public Rack - 10557 S Western Ave,member
+0.003,Public Rack - 10557 S Western Ave,casual
+0.009,Public Rack - 111th St - Morgan Park Metra,casual
+0.033,Public Rack - 111th St - Morgan Park Metra,member
+0.002,Public Rack - 2302 S Pulaski Rd,member
+0.001,Public Rack - 2302 S Pulaski Rd,casual
+0.011,Public Rack - 4810 Keeler Ave,member
+0.003,Public Rack - 4810 Keeler Ave,casual
+0.01,Public Rack - 532 E 43rd St,member
+0.01,Public Rack - 532 E 43rd St,casual
+0.001,Public Rack - 53rd St & Indiana Ave,casual
+0.024,Public Rack - 56th St & Mulligan Ave,casual
+0.005,Public Rack - 56th St & Mulligan Ave,member
+0.006,Public Rack - 61st St & Melvina Ave,casual
+0.002,Public Rack - 63rd & Western Ave N,member
+0.001,Public Rack - 63rd & Western Ave S,casual
+0.001,Public Rack - 63rd & Western Ave S,member
+0.002,Public Rack - 63rd Pl & Narraganssett Ave,member
+0.044,Public Rack - 63rd Pl & Narraganssett Ave,casual
+0.005,Public Rack - 63rd St and Nagle Ave,casual
+0.001,Public Rack - 83rd Pl & Kedzie Ave S,member
+0.001,Public Rack - 85th Pl & Pulaski Rd,member
+0.004,Public Rack - 85th Pl & Pulaski Rd,casual
+0.006,Public Rack - Abbott Park,casual
+0.001,Public Rack - Ada St & 117th St,casual
+0.001,Public Rack - Ada St & 117th St,member
+0.001,Public Rack - Ada St & 119th St,member
+0.001,Public Rack - Ada St & 79th St,casual
+0.01,Public Rack - Ada St & 79th St,member
+0.003,Public Rack - Ada St & 95th St,casual
+0.001,Public Rack - Ada St & 95th St,member
+0.001,Public Rack - Aida Food Market,member
+0.001,Public Rack - Al Raby School,member
+0.001,Public Rack - Albany Ave & 103rd St,casual
+0.001,Public Rack - Albany Ave & 103rd St,member
+0.001,Public Rack - Albany Ave & 111th St - NW,member
+0.001,Public Rack - Albany Ave & 63rd St,casual
+0.001,Public Rack - Archer Park,casual
+0.002,Public Rack - Archer Park,member
+0.001,Public Rack - Artesian & 71st,member
+0.002,Public Rack - Ashland Ave & 45th St,member
+0.002,Public Rack - Ashland Ave & 45th St  S,member
+0.003,Public Rack - Ashland Ave & 46th St,member
+0.007,Public Rack - Ashland Ave & 63rd St,casual
+0.001,Public Rack - Ashland Ave & 63rd St,member
+0.003,Public Rack - Ashland Ave & 71st St,member
+0.008,Public Rack - Ashland Ave & 71st St,casual
+0.001,Public Rack - Ashland Ave & 73rd St,member
+0.003,Public Rack - Ashland Ave & 74th St,member
+0.008,Public Rack - Ashland Ave & 76th St,member
+0.002,Public Rack - Ashland Ave & 83rd St,member
+0.001,Public Rack - Ashland Ave & 83rd St,casual
+0.004,Public Rack - Ashland Ave & 91st St,casual
+0.026,Public Rack - Ashland Ave & 91st St,member
+0.002,Public Rack - Austin & 62nd,casual
+0.006,Public Rack - Austin & Higgins,casual
+0.007,Public Rack - Austin & Higgins,member
+0.004,Public Rack - Austin Ave & Archer Ave,casual
+0.001,Public Rack - Austin Ave & Archer Ave,member
+0.003,Public Rack - Austin Ave & Roscoe St,casual
+0.003,Public Rack - Austin Ave & Roscoe St,member
+0.007,Public Rack - Austin Ave & Wellington Ave,member
+0.005,Public Rack - Austin Ave & Wellington Ave,casual
+0.017,Public Rack - Austin Ave & Wrightwood Ave,casual
+0.011,Public Rack - Austin Ave & Wrightwood Ave,member
+0.026,Public Rack - Austin Blvd & North Ave,member
+0.046,Public Rack - Austin Blvd & North Ave,casual
+0.001,Public Rack - Austin Branch Chicago Public Library,member
+0.001,Public Rack - Austin Branch Chicago Public Library,casual
+0.001,Public Rack - Ave N & 106th St,member
+0.004,Public Rack - Ave N & 106th St,casual
+0.002,Public Rack - Avenue J & 102nd St,casual
+0.001,Public Rack - Avenue J & 102nd St,member
+0.003,Public Rack - Avenue J & 106th St,member
+0.005,Public Rack - Avenue J & 106th St,casual
+0.001,Public Rack - Avenue J & 112th St,member
+0.007,Public Rack - Avenue J & 112th St,casual
+0.002,Public Rack - Avenue M & 132nd St,member
+0.015,Public Rack - Avenue M & 132nd St,casual
+0.001,Public Rack - Avenue O & 118th St,member
+0.003,Public Rack - Avers & Granville,member
+0.003,Public Rack - Avers & Granville,casual
+0.026,Public Rack - Avers & Lawrence,casual
+0.066,Public Rack - Avers & Lawrence,member
+0.002,Public Rack - Avers Ave & Archer Ave,member
+0.001,Public Rack - Avers Ave & Archer Ave,casual
+0.03,Public Rack - Avers Ave & Irving Park Rd,member
+0.026,Public Rack - Avers Ave & Irving Park Rd,casual
+0.003,Public Rack - Avers Ave & Ogden Ave,casual
+0.006,Public Rack - Avers Ave & Ogden Ave,member
+0.018,Public Rack - Avondale Ave & Addison St,casual
+0.008,Public Rack - Avondale Ave & Addison St,member
+0.004,Public Rack - Back of the Yards Park,member
+0.001,Public Rack - Baker Ave & 863rd Pl,member
+0.004,Public Rack - Baltimore Ave & 132nd St,casual
+0.007,Public Rack - Baltimore Ave & 133rd St,casual
+0.001,Public Rack - Baltimore Ave & 133rd St,member
+0.001,Public Rack - Bell Ave & 95th St,casual
+0.003,Public Rack - Bell Ave & 95th St,member
+0.002,Public Rack - Bensley Ave & 103rd St,member
+0.009,Public Rack - Bernard St & Foster Ave,member
+0.005,Public Rack - Bernard St & Foster Ave,casual
+0.006,Public Rack - Bishop St & 46th St,casual
+0.011,Public Rack - Bishop St & 46th St,member
+0.001,Public Rack - Bishop St & 81st St,member
+0.001,Public Rack - Brainerd Park,member
+0.001,Public Rack - Brainerd Park,casual
+0.001,Public Rack - Brandon Ave & 91st St,casual
+0.006,Public Rack - Brandon Ave & 91st St,member
+0.002,Public Rack - Brighton Park Branch Chicago Library,casual
+0.002,Public Rack - Brighton Park Branch Chicago Library,member
+0.002,Public Rack - Brooks Park,member
+0.001,Public Rack - Brooks Park,casual
+0.003,Public Rack - Bryn Mawr Ave & Milwaukee Ave,member
+0.01,Public Rack - Bryn Mawr Ave & Milwaukee Ave,casual
+0.006,Public Rack - Bryn Mawr Ave & Spaulding Ave,member
+0.019,Public Rack - Bryn Mawr Ave & Spaulding Ave,casual
+0.009,Public Rack - Buffalo Ave & 133rd St,casual
+0.001,Public Rack - Buffalo Ave & 89th St,casual
+0.001,Public Rack - Buffalo Ave & 89th St,member
+0.001,Public Rack - Burnside Academy,casual
+0.105,Public Rack - California Ave & Cortez St,casual
+0.17,Public Rack - California Ave & Cortez St,member
+0.029,Public Rack - California Ave & Devon Ave - NE,member
+0.037,Public Rack - California Ave & Devon Ave - NE,casual
+0.022,Public Rack - California Ave & Devon Ave - NW,member
+0.015,Public Rack - California Ave & Devon Ave - NW,casual
+0.009,Public Rack - California Ave & Ogden Ave,member
+0.031,Public Rack - California Ave & Ogden Ave,casual
+0.001,Public Rack - California Ave & Pershing Rd,member
+0.009,Public Rack - California Ave & Touhy Ave - NW,casual
+0.018,Public Rack - California Ave & Touhy Ave - NW,member
+0.003,Public Rack - California Ave & Touhy Ave - SW,casual
+0.003,Public Rack - California Ave & Touhy Ave - SW,member
+0.001,Public Rack - California Ave & Touhy Ave - midblock,member
+0.001,Public Rack - Calumet Ave & 103rd St,member
+0.001,Public Rack - Calumet Ave & 103rd St,casual
+0.001,Public Rack - Calumet Ave & 133rd St,member
+0.046,Public Rack - Calumet Ave & 51st St,member
+0.04,Public Rack - Calumet Ave & 51st St,casual
+0.003,Public Rack - Calumet Ave & 71st St,member
+0.001,Public Rack - Calumet Ave & Garfield Blvd,member
+0.001,Public Rack - Calumet Ave & Garfield Blvd,casual
+0.036,Public Rack - Campbell Ave & Pratt Blvd,casual
+0.09,Public Rack - Campbell Ave & Pratt Blvd,member
+0.008,Public Rack - Canfield & Victoria,casual
+0.007,Public Rack - Canfield & Victoria,member
+0.006,Public Rack - Canty Elementary School,casual
+0.003,Public Rack - Central & Berteau,casual
+0.004,Public Rack - Central & Berteau,member
+0.023,Public Rack - Central & Leland,casual
+0.023,Public Rack - Central & Leland,member
+0.013,Public Rack - Central & Prescott,casual
+0.011,Public Rack - Central & Prescott,member
+0.006,Public Rack - Central Ave & Adams St,casual
+0.002,Public Rack - Central Ave & Adams St,member
+0.002,Public Rack - Central Ave & Congress Pkwy,member
+0.004,Public Rack - Central Ave & Corcoran Pl,member
+0.01,Public Rack - Central Ave & Corcoran Pl,casual
+0.011,Public Rack - Central Ave & George St,member
+0.002,Public Rack - Central Ave & George St,casual
+0.039,Public Rack - Central Ave & Lawrence Ave,member
+0.028,Public Rack - Central Ave & Lawrence Ave,casual
+0.005,Public Rack - Central Ave & North Ave,casual
+0.003,Public Rack - Central Ave & North Ave,member
+0.014,Public Rack - Central Ave & Pensacola Ave,casual
+0.028,Public Rack - Central Ave & Pensacola Ave,member
+0.005,Public Rack - Central Park & Bryn Mawr,casual
+0.009,Public Rack - Central Park & Bryn Mawr,member
+0.004,Public Rack - Central Park & Peterson,casual
+0.009,Public Rack - Central Park & Peterson,member
+0.001,Public Rack - Central Park Ave & 16th St,member
+0.017,Public Rack - Central Park Ave & Fillmore St,member
+0.002,Public Rack - Central Park Ave & Fillmore St,casual
+0.007,Public Rack - Central Park Ave & Fulton Blvd,casual
+0.002,Public Rack - Central Park Ave & Fulton Blvd,member
+0.002,Public Rack - Central Park Ave & Ogden Ave,casual
+0.002,Public Rack - Central Park Ave & Ogden Ave,member
+0.013,Public Rack - Champlain Ave & 65th St,casual
+0.005,Public Rack - Champlain Ave & 65th St,member
+0.004,Public Rack - Chappel Ave & 71st St,casual
+0.001,Public Rack - Chappel Ave & 71st St,member
+0.01,Public Rack - Chase Ave & Touhy Ave - NE,casual
+0.009,Public Rack - Chase Ave & Touhy Ave - NE,member
+0.007,Public Rack - Chase Ave & Touhy Ave - NW,casual
+0.002,Public Rack - Chase Ave & Touhy Ave - NW,member
+0.003,Public Rack - Chopin Park,member
+0.01,Public Rack - Chopin Park,casual
+0.011,Public Rack - Christiana & Lincoln,member
+0.007,Public Rack - Christiana & Lincoln,casual
+0.003,Public Rack - Christiana Ave & 55th St,casual
+0.001,Public Rack - Christiana Ave & 55th St,member
+0.008,Public Rack - Christiana Ave & Archer Ave,casual
+0.004,Public Rack - Christiana Ave & Archer Ave,member
+0.258,Public Rack - Christiana Ave & Belmont Ave,casual
+0.306,Public Rack - Christiana Ave & Belmont Ave,member
+0.006,Public Rack - Christiana Ave & Bryn Mawr Ave,casual
+0.011,Public Rack - Christiana Ave & Bryn Mawr Ave,member
+0.012,Public Rack - Christiana Ave & Lawrence Ave,member
+0.01,Public Rack - Christiana Ave & Lawrence Ave,casual
+0.001,Public Rack - Cicero & 64th,member
+0.02,Public Rack - Cicero & 64th,casual
+0.009,Public Rack - Cicero & Rosemont,member
+0.005,Public Rack - Cicero Ave & Altgeld St,member
+0.007,Public Rack - Cicero Ave & Altgeld St,casual
+0.036,Public Rack - Cicero Ave & Belle Plaine Ave,member
+0.021,Public Rack - Cicero Ave & Belle Plaine Ave,casual
+0.008,Public Rack - Cicero Ave & Cortland St - midblock,member
+0.012,Public Rack - Cicero Ave & Cortland St - midblock,casual
+0.001,Public Rack - Cicero Ave & Le Moyne St - midblock,casual
+0.001,Public Rack - Cicero Ave & Le Moyne St - midblock,member
+0.006,Public Rack - Cicero Ave & North Ave,member
+0.007,Public Rack - Cicero Ave & North Ave,casual
+0.009,Public Rack - Cicero Ave & Roscoe St,member
+0.004,Public Rack - Cicero Ave & Roscoe St,casual
+0.001,Public Rack - Cicero Ave & Wellington Ave,member
+0.004,Public Rack - Cicero Ave & Wellington Ave,casual
+0.006,Public Rack - Cicero Ave & Wrightwood Ave,casual
+0.021,Public Rack - Cicero Ave & Wrightwood Ave,member
+0.001,Public Rack - Clyde Ave & 87th St,member
+0.009,Public Rack - Clyde Ave & 87th St,casual
+0.004,Public Rack - Colfax Ave & 83rd St,member
+0.004,Public Rack - Colfax Ave & 83rd St,casual
+0.004,Public Rack - Commercial Ave & 89th St,member
+0.001,Public Rack - Corliss Ave & 103rd St,member
+0.001,Public Rack - Cornell Ave & 87th Pl,casual
+0.001,Public Rack - Cottage Grove & 84th St,member
+0.001,Public Rack - Cottage Grove & 84th St,casual
+0.001,Public Rack - Cottage Grove & 85th St,member
+0.023,Public Rack - Cottage Grove & 86th St,member
+0.005,Public Rack - Cottage Grove & 86th St,casual
+0.002,Public Rack - Cottage Grove Ave & 111th St,member
+0.001,Public Rack - Cottage Grove Ave & 75th St,member
+0.001,Public Rack - Cottage Grove Ave & 75th St,casual
+0.002,Public Rack - Cottage Grove Ave & 87th St,member
+0.001,Public Rack - Cottage Grove Ave & 87th St,casual
+0.002,Public Rack - Cottage Grove Ave & 89th Pl,casual
+0.001,Public Rack - Cottage Grove Ave & 92nd St,casual
+0.004,Public Rack - Cottage Grove Ave & 92nd St,member
+0.003,Public Rack - Cottage Grove Ave & 98th St,member
+0.001,Public Rack - Cottage Grove Ave & 98th St,casual
+0.002,Public Rack - Crandon Ave & 80th St,member
+0.001,Public Rack - Crandon Ave & 80th St,casual
+0.069,Public Rack - Cumberland & Catherine,casual
+0.102,Public Rack - Cumberland & Catherine,member
+0.001,Public Rack - Damen & 81st,member
+0.002,Public Rack - Damen & 87th,casual
+0.008,Public Rack - Damen Ave & 47th St,member
+0.017,Public Rack - Damen Ave & 47th St,casual
+0.001,Public Rack - Damen Ave & 80th St,member
+0.001,Public Rack - Damen Ave & 84th St,member
+0.023,Public Rack - Delphina & Foster,member
+0.027,Public Rack - Delphina & Foster,casual
+0.004,Public Rack - Devon Ave & Central Ave,member
+0.003,Public Rack - Devon Ave & Kinzua Ave,member
+0.001,Public Rack - Devon Ave & Minnehaha Ave (east),casual
+0.001,Public Rack - Devon Ave & Minnehaha Ave (east),member
+0.001,Public Rack - Devon Ave & Minnehaha Ave (west),member
+0.001,Public Rack - Devon Ave & Minnehaha Ave (west),casual
+0.01,Public Rack - Division St & Christiana Ave,member
+0.001,Public Rack - Division St & Christiana Ave,casual
+0.105,Public Rack - Drake Ave & Leland Ave,member
+0.02,Public Rack - Drake Ave & Leland Ave,casual
+0.001,Public Rack - East End Ave & 75th St,casual
+0.002,Public Rack - East End Ave & 75th St,member
+0.001,Public Rack - East End Ave & 87th St,casual
+0.001,Public Rack - East End Ave & 87th St,member
+0.009,Public Rack - Eberhart Ave & 61st St,casual
+0.003,Public Rack - Eberhart Ave & 61st St,member
+0.001,Public Rack - Eggleston Ave & 114th St,member
+0.002,Public Rack - Eggleston Ave & 115th St,casual
+0.001,Public Rack - Eggleston Ave & 92nd St,member
+0.007,Public Rack - Eli Whitney Public School,casual
+0.011,Public Rack - Eli Whitney Public School,member
+0.023,Public Rack - Elizabeth St & 115th St,member
+0.004,Public Rack - Elizabeth St & 115th St,casual
+0.001,Public Rack - Ellis Ave & 132nd Pl,casual
+0.003,Public Rack - Elston Ave & Gunnison St,casual
+0.007,Public Rack - Elston Ave & Gunnison St,member
+0.015,Public Rack - Elston Ave & Kenneth Ave,member
+0.005,Public Rack - Elston Ave & Kenneth Ave,casual
+0.006,Public Rack - Emerald Ave & 43rd St,member
+0.003,Public Rack - Emerald Ave & 43rd St,casual
+0.004,Public Rack - Emerald Ave & 45th St,member
+0.005,Public Rack - Emerald Ave & 45th St,casual
+0.008,Public Rack - Evans Ave & 63rd St,casual
+0.059,Public Rack - Evans Ave & 63rd St,member
+0.006,Public Rack - Ewing Ave & 101st St,member
+0.018,Public Rack - Ewing Ave & 101st St,casual
+0.001,Public Rack - Ewing Ave & 102nd St,casual
+0.002,Public Rack - Ewing Ave & 105th St,casual
+0.001,Public Rack - Ewing Ave & 105th St,member
+0.002,Public Rack - Ewing Ave & 106th St,casual
+0.001,Public Rack - Ewing Ave & 106th St,member
+0.001,Public Rack - Ewing Ave & 106th St NW,casual
+0.01,Public Rack - Ewing Ave & 107th St,casual
+0.001,Public Rack - Ewing Ave & 95th St,casual
+0.007,Public Rack - Ewing Ave & 99th St,member
+0.005,Public Rack - Ewing Ave & 99th St,casual
+0.005,Public Rack - Ewing Ave & Indianapolis Ave,casual
+0.013,Public Rack - Ewing Ave & Indianapolis Ave,member
+0.013,Public Rack - Exchange Ave & 73rd Pl,member
+0.002,Public Rack - Exchange Ave & 73rd Pl,casual
+0.003,Public Rack - Fairfield Ave & 63rd St,casual
+0.004,Public Rack - Ford City Mall,casual
+0.015,Public Rack - Forest Glen & Peterson,casual
+0.07,Public Rack - Forest Glen & Peterson,member
+0.027,Public Rack - Forest Glen Station ,member
+0.01,Public Rack - Forest Glen Station ,casual
+0.011,Public Rack - Forrestville Ave & 47th St,casual
+0.012,Public Rack - Forrestville Ave & 47th St,member
+0.004,Public Rack - Foster Ave & Drake Ave,member
+0.005,Public Rack - Francisco Ave & Touhy Ave,member
+0.002,Public Rack - Franklin Park,member
+0.002,Public Rack - Fullerton Ave & Lavergne Ave,casual
+0.019,Public Rack - Fullerton Ave & Narragansett Ave,member
+0.025,Public Rack - Fullerton Ave & Narragansett Ave,casual
+0.012,Public Rack - Garfield Park Conservatory,casual
+0.013,Public Rack - Garfield Park Conservatory,member
+0.001,Public Rack - Grand Ave & Lawndale Ave,casual
+0.001,Public Rack - Grand Ave & Lawndale Ave,member
+0.001,Public Rack - Grand Ave & North Ave,member
+0.001,Public Rack - Green St & 103rd St,casual
+0.001,Public Rack - Green St & 103rd St,member
+0.016,Public Rack - Greenwood Ave & Lake Park Ave,member
+0.013,Public Rack - Greenwood Ave & Lake Park Ave,casual
+0.063,Public Rack - Haft Ave & Milwaukee Ave,casual
+0.152,Public Rack - Haft Ave & Milwaukee Ave,member
+0.002,Public Rack - Hale Ave & 111th St,casual
+0.001,Public Rack - Hale Ave & 111th St,member
+0.003,Public Rack - Halsted St & 102nd St,member
+0.004,Public Rack - Halsted St & 109th St,member
+0.002,Public Rack - Halsted St & 111th St,casual
+0.011,Public Rack - Halsted St & 111th St,member
+0.006,Public Rack - Halsted St & 113th St,casual
+0.004,Public Rack - Halsted St & 113th St,member
+0.001,Public Rack - Halsted St & 41st St,casual
+0.004,Public Rack - Halsted St & 41st St,member
+0.019,Public Rack - Halsted St & 63rd St,member
+0.002,Public Rack - Halsted St & 63rd St,casual
+0.003,Public Rack - Halsted St & 64th St,member
+0.008,Public Rack - Halsted St & 64th St,casual
+0.008,Public Rack - Halsted St & 76th St,member
+0.013,Public Rack - Halsted St & 76th St,casual
+0.001,Public Rack - Halsted St & 77th St,member
+0.003,Public Rack - Halsted St & 80th St,casual
+0.002,Public Rack - Halsted St & 80th St,member
+0.005,Public Rack - Halsted St & 94th St,member
+0.001,Public Rack - Halsted St & 94th St,casual
+0.036,Public Rack - Halsted St & 95th St - SE,member
+0.015,Public Rack - Halsted St & 95th St - SE,casual
+0.006,Public Rack - Halsted St & 95th St - SW,member
+0.002,Public Rack - Halsted St & 95th St - SW,casual
+0.01,Public Rack - Hamilton Ave & 95th St,member
+0.009,Public Rack - Hamilton Ave & 95th St,casual
+0.001,Public Rack - Hamilton Park,member
+0.004,Public Rack - Hamlin Ave & Chicago Ave,member
+0.002,Public Rack - Hamlin Ave & Chicago Ave,casual
+0.077,Public Rack - Hamlin Ave & Fullerton Ave,casual
+0.123,Public Rack - Hamlin Ave & Fullerton Ave,member
+0.009,Public Rack - Hamlin Ave & Grand Ave,casual
+0.01,Public Rack - Hamlin Ave & Grand Ave,member
+0.003,Public Rack - Hamlin Ave & Madison St,casual
+0.005,Public Rack - Hamlin Ave & Madison St,member
+0.211,Public Rack - Hamlin Ave & Montrose Ave,member
+0.078,Public Rack - Hamlin Ave & Montrose Ave,casual
+0.005,Public Rack - Harding Ave & 47th St,member
+0.003,Public Rack - Harding Ave & 47th St,casual
+0.006,Public Rack - Harlem & Palatine,member
+0.004,Public Rack - Harlem & Palatine,casual
+0.002,Public Rack - Harlem & Summerdale,member
+0.001,Public Rack - Harlem & Summerdale,casual
+0.001,Public Rack - Harlem and W. 59th,member
+0.001,Public Rack - Harlem and W. 59th,casual
+0.118,Public Rack - Harold Washington Park,casual
+0.118,Public Rack - Harold Washington Park,member
+0.039,Public Rack - Harper Ave & 63rd St,member
+0.062,Public Rack - Harper Ave & 63rd St,casual
+0.004,Public Rack - Harriet E Sayre Public School,casual
+0.002,Public Rack - Harriet E Sayre Public School,member
+0.002,Public Rack - Harvard Ave & 103rd St,casual
+0.002,Public Rack - Harvard Ave & 103rd St,member
+0.003,Public Rack - Harvey Ave & North Ave,casual
+0.001,Public Rack - Harvey Ave & North Ave,member
+0.002,Public Rack - Hermitage & 83rd St,member
+0.026,Public Rack - Hiawatha & Mendota,member
+0.037,Public Rack - Hiawatha & Mendota,casual
+0.006,Public Rack - Hiawatha Ave & Minnehaha Ave,member
+0.003,Public Rack - Hiawatha Ave & Minnehaha Ave,casual
+0.003,Public Rack - Hiawatha Park,casual
+0.001,Public Rack - Hiawatha Park,member
+0.003,Public Rack - Higgins Ave & Neva Ave,casual
+0.001,Public Rack - Higgins Ave & Neva Ave,member
+0.014,Public Rack - Holbrook St & Milwaukee Ave,casual
+0.084,Public Rack - Holbrook St & Milwaukee Ave,member
+0.157,Public Rack - Hollywood Park,member
+0.018,Public Rack - Hollywood Park,casual
+0.003,Public Rack - Homan & 79th,casual
+0.006,Public Rack - Homan Ave & 26th St,casual
+0.002,Public Rack - Homan Ave & 26th St,member
+0.004,Public Rack - Homan Ave & 62nd Pl,casual
+0.005,Public Rack - Homan Ave & Lake St,member
+0.003,Public Rack - Homan Ave & Lake St,casual
+0.003,Public Rack - Homan Ave & Roosevelt,member
+0.006,Public Rack - Homan Ave & Roosevelt,casual
+0.002,Public Rack - Homewood Ave & Monterey Ave,member
+0.001,Public Rack - Horner & 85th,member
+0.005,Public Rack - Houston Ave & 130th St,casual
+0.025,Public Rack - Houston Ave & 131st St,casual
+0.003,Public Rack - Houston Ave & 91st St,member
+0.008,Public Rack - Hoyne Ave & 110th Pl,member
+0.004,Public Rack - Hoyne Ave & 110th Pl,casual
+0.003,Public Rack - Hoyne Ave & 51st St,member
+0.002,Public Rack - Hoyne Ave & 51st St,casual
+0.228,Public Rack - Hyde Park Blvd & 53rd St,casual
+0.411,Public Rack - Hyde Park Blvd & 53rd St,member
+0.119,Public Rack - Hyde Park Blvd & 55th St,member
+0.085,Public Rack - Hyde Park Blvd & 55th St,casual
+0.004,Public Rack - Imlay & Milwaukee,member
+0.021,Public Rack - Imlay & Milwaukee,casual
+0.001,Public Rack - Independence Blvd & Roosevelt,member
+0.002,Public Rack - Independence Blvd & Roosevelt,casual
+0.001,Public Rack - Indiana Ave & 111th St,casual
+0.004,Public Rack - Indiana Ave & 111th St,member
+0.002,Public Rack - Ingleside Ave & 79th St,casual
+0.001,Public Rack - Ingleside Ave & 79th St,member
+0.009,Public Rack - Irving Park Rd & Austin Ave,member
+0.007,Public Rack - Irving Park Rd & Austin Ave,casual
+0.033,Public Rack - Irving Park Rd & Leclaire Ave,casual
+0.042,Public Rack - Irving Park Rd & Leclaire Ave,member
+0.005,Public Rack - Irving Park Rd & Melvina Ave,member
+0.005,Public Rack - Irving Park Rd & Melvina Ave,casual
+0.006,Public Rack - Irving Park Rd & Menard Ave,casual
+0.007,Public Rack - Irving Park Rd & Menard Ave,member
+0.007,Public Rack - Irving Park Rd & Parkside Ave,member
+0.004,Public Rack - Irving Park Rd & Parkside Ave,casual
+0.001,Public Rack - James Madison School,member
+0.002,Public Rack - James Madison School,casual
+0.043,Public Rack - Jeffery Blvd & 67th St,casual
+0.02,Public Rack - Jeffery Blvd & 67th St,member
+0.002,Public Rack - Jeffery Blvd & 81st St,member
+0.001,Public Rack - Jeffery Blvd & 83rd St,casual
+0.003,Public Rack - Jeffery Blvd & 83rd St,member
+0.005,Public Rack - Jeffrey Blvd & 71st St,casual
+0.017,Public Rack - Jeffrey Blvd & 71st St,member
+0.07,Public Rack - Jensen Park,member
+0.032,Public Rack - Jensen Park,casual
+0.03,Public Rack - Jonathan Y Scammon Public School,casual
+0.016,Public Rack - Jonathan Y Scammon Public School,member
+0.012,Public Rack - Justine St & 87th St,member
+0.001,Public Rack - Karlov Ave & 26th St,member
+0.002,Public Rack - Karlov Ave & 26th St,casual
+0.025,Public Rack - Karlov Ave & Kamerling Ave,casual
+0.099,Public Rack - Karlov Ave & Kamerling Ave,member
+0.01,Public Rack - Karlov Ave & Lawrence Ave,casual
+0.01,Public Rack - Karlov Ave & Lawrence Ave,member
+0.02,Public Rack - Karlov Ave & Milwaukee Ave,member
+0.027,Public Rack - Karlov Ave & Milwaukee Ave,casual
+0.08,Public Rack - Keating & Peterson,member
+0.002,Public Rack - Keating & Peterson,casual
+0.004,Public Rack - Kedvale Ave & 26th St,member
+0.002,Public Rack - Kedvale Ave & 26th St,casual
+0.006,Public Rack - Kedvale Ave & 63rd St E,member
+0.027,Public Rack - Kedvale Ave & 63rd St W,casual
+0.15,Public Rack - Kedvale Ave & 63rd St W,member
+0.001,Public Rack - Kedvale Ave & Addison St,casual
+0.003,Public Rack - Kedvale Ave & Avondale Ave,member
+0.008,Public Rack - Kedvale Ave & Peterson Ave,member
+0.003,Public Rack - Kedvale Ave & Peterson Ave,casual
+0.001,Public Rack - Kedzie & 103rd St - East,member
+0.004,Public Rack - Kedzie & 103rd St - East,casual
+0.003,Public Rack - Kedzie & 103rd St - W,member
+0.008,Public Rack - Kedzie & 103rd St - W,casual
+0.001,Public Rack - Kedzie Ave & 54th Pl,member
+0.004,Public Rack - Kedzie Ave & 54th St - SE,member
+0.003,Public Rack - Kedzie Ave & 54th St - SE,casual
+0.003,Public Rack - Kedzie Ave & 54th St - SW,member
+0.003,Public Rack - Kedzie Ave & 54th St - SW,casual
+0.011,Public Rack - Kedzie Ave & 58th St,member
+0.011,Public Rack - Kedzie Ave & 58th St,casual
+0.017,Public Rack - Kedzie Ave & 60th St,member
+0.001,Public Rack - Kedzie Ave & 61st Pl E,member
+0.002,Public Rack - Kedzie Ave & 61st Pl E,casual
+0.001,Public Rack - Kedzie Ave & 61st Pl W,member
+0.002,Public Rack - Kedzie Ave & 62nd Pl,member
+0.003,Public Rack - Kedzie Ave & 62nd Pl,casual
+0.005,Public Rack - Kedzie Ave & 63rd St,casual
+0.008,Public Rack - Kedzie Ave & 63rd St,member
+0.002,Public Rack - Kedzie Ave & 64th St - SE,casual
+0.005,Public Rack - Kedzie Ave & 64th St - SE,member
+0.003,Public Rack - Kedzie Ave & 64th St - SW,casual
+0.001,Public Rack - Kedzie Ave & 83rd St,casual
+0.011,Public Rack - Kedzie Ave & Archer Ave,casual
+0.003,Public Rack - Kedzie Ave & Archer Ave,member
+0.062,Public Rack - Kedzie Ave & Argyle St,casual
+0.197,Public Rack - Kedzie Ave & Argyle St,member
+0.003,Public Rack - Kedzie Ave & Arthington St,casual
+0.002,Public Rack - Kedzie Ave & Arthington St,member
+0.018,Public Rack - Kedzie Ave & Chicago Ave,member
+0.015,Public Rack - Kedzie Ave & Chicago Ave,casual
+0.003,Public Rack - Kedzie Ave & Pershing Rd,casual
+0.002,Public Rack - Kedzie Ave & Pershing Rd,member
+0.004,Public Rack - Kedzie Ave & Walnut St,casual
+0.004,Public Rack - Kedzie Ave & Walnut St,member
+0.001,Public Rack - Keef Ave & South Chicago Ave,member
+0.001,Public Rack - Keeler Ave & 26th St,member
+0.001,Public Rack - Keeler Ave & 26th St,casual
+0.001,Public Rack - Keeler Ave & 55th St,casual
+0.001,Public Rack - Keeler Ave & Madison St S,casual
+0.004,Public Rack - Keeler Ave & Madison St S,member
+0.026,Public Rack - Kenneth & Carmen,casual
+0.029,Public Rack - Kenneth & Carmen,member
+0.002,Public Rack - Kenneth Ave & 63rd St E,casual
+0.001,Public Rack - Kenneth Ave & 63rd St E,member
+0.005,Public Rack - Kenneth Ave & 63rd St W,casual
+0.001,Public Rack - Kenneth Ave & 63rd St W,member
+0.007,Public Rack - Kenton & Lawrence,casual
+0.018,Public Rack - Kenton & Lawrence,member
+0.024,Public Rack - Kenton Ave & Palmer St,casual
+0.006,Public Rack - Kenton Ave & Palmer St,member
+0.041,Public Rack - Keystone Ave & Irving Park Rd,member
+0.018,Public Rack - Keystone Ave & Irving Park Rd,casual
+0.011,Public Rack - Keystone Ave & North Ave,casual
+0.013,Public Rack - Keystone Ave & North Ave,member
+0.001,Public Rack - Kilbourn Ave & Fullerton Ave,member
+0.001,Public Rack - Kildare Ave & 63rd St,casual
+0.001,Public Rack - Kildare Ave & 63rd St,member
+0.002,Public Rack - Kildare Ave & Division Ave,member
+0.001,Public Rack - Kildare Ave & Division Ave,casual
+0.018,Public Rack - Kildare Ave & North Ave,member
+0.005,Public Rack - Kildare Ave & North Ave,casual
+0.01,Public Rack - Kildare Ave & Washignton Blvd,casual
+0.003,Public Rack - Kildare Ave & Washignton Blvd,member
+0.06,Public Rack - Kilpatrick & Elston,casual
+0.023,Public Rack - Kilpatrick & Elston,member
+0.015,Public Rack - Kimball & Ardmore,casual
+0.014,Public Rack - Kimball & Ardmore,member
+0.027,Public Rack - Kimball Ave & Carmen Ave,member
+0.012,Public Rack - Kimball Ave & Carmen Ave,casual
+0.033,Public Rack - Kimball Ave & Lawrence Ave,member
+0.033,Public Rack - Kimball Ave & Lawrence Ave,casual
+0.078,Public Rack - Kimbark Ave & 63rd St,member
+0.01,Public Rack - Kimbark Ave & 63rd St,casual
+0.012,Public Rack - Kimbark Ave & 67th St,casual
+0.005,Public Rack - Kimbark Ave & 67th St,member
+0.009,Public Rack - King Dr & 115th St,member
+0.02,Public Rack - King Dr & 115th St,casual
+0.008,Public Rack - King Dr & 71st St,member
+0.005,Public Rack - King Dr & 71st St,casual
+0.004,Public Rack - King Dr & Oakwood Blvd,casual
+0.004,Public Rack - King Dr & Oakwood Blvd,member
+0.002,Public Rack - Kingston Ave & 75th St,member
+0.001,Public Rack - Kingston Ave & 75th St,casual
+0.033,Public Rack - Kinzua Ave & Devon Ave,casual
+0.089,Public Rack - Kinzua Ave & Devon Ave,member
+0.004,Public Rack - Kolin Ave & Archer Ave,casual
+0.002,Public Rack - Kolin Ave & Archer Ave,member
+0.003,Public Rack - Komensky Ave & 26th St,casual
+0.003,Public Rack - Komensky Ave & 26th St,member
+0.014,Public Rack - Komensky Ave & 59th St,casual
+0.025,Public Rack - Komensky Ave & 59th St,member
+0.005,Public Rack - Komensky Ave & 63rd St,member
+0.004,Public Rack - Komensky Ave & 63rd St,casual
+0.011,Public Rack - Kostner & Bryn Mawr,casual
+0.005,Public Rack - Kostner & Bryn Mawr,member
+0.03,Public Rack - Kostner & Peterson,member
+0.003,Public Rack - Kostner & Peterson,casual
+0.003,Public Rack - Kostner Ave & 16th St,member
+0.004,Public Rack - Kostner Ave & 16th St,casual
+0.085,Public Rack - Kostner Ave & Armitage Ave,casual
+0.069,Public Rack - Kostner Ave & Armitage Ave,member
+0.083,Public Rack - Kostner Ave & Diversey Ave,member
+0.028,Public Rack - Kostner Ave & Diversey Ave,casual
+0.003,Public Rack - Kostner Ave & Lake St,member
+0.003,Public Rack - Kostner Ave & Lake St,casual
+0.004,Public Rack - Kostner Ave & North Ave,member
+0.012,Public Rack - Kostner Ave & Wrightwood Ave,member
+0.006,Public Rack - Kostner Ave & Wrightwood Ave,casual
+0.001,Public Rack - La Moyne Ave and Leamington Ave,member
+0.001,Public Rack - Lafayette Ave & 119th St,member
+0.002,Public Rack - Lafayette Ave & 87th St - NW,member
+0.001,Public Rack - Lafayette Ave & 87th St SW,member
+0.068,Public Rack - Lafayette Ave & 95th St,member
+0.106,Public Rack - Lafayette Ave & 95th St,casual
+0.006,Public Rack - Laflin St & 51st St,casual
+0.006,Public Rack - Laflin St & 51st St,member
+0.002,Public Rack - Laflin St & 79th St,casual
+0.003,Public Rack - Laflin St & 79th St,member
+0.004,Public Rack - Laflin St &51st ST,member
+0.002,Public Rack - Laflin St &51st ST,casual
+0.001,Public Rack - Lake Park Ave & 44th St,member
+0.001,Public Rack - Lake Park Ave & 44th St,casual
+0.001,Public Rack - Lake Park Ave & 47th St,member
+0.001,Public Rack - Lake Park Ave & 47th St,casual
+0.006,Public Rack - Lake Shore Dr & Hayes Dr,member
+0.002,Public Rack - Lake Shore Dr & Hayes Dr,casual
+0.002,Public Rack - Lamon Ave & Archer Ave,member
+0.001,Public Rack - Lamon Ave & Archer Ave,casual
+0.001,Public Rack - Lamon Ave & Erie St,member
+0.002,Public Rack - Lamon Ave & Erie St,casual
+0.031,Public Rack - Langley Ave & 105th Pl,casual
+0.009,Public Rack - Langley Ave & 105th Pl,member
+0.177,Public Rack - Langley Ave & 49th St,member
+0.017,Public Rack - Langley Ave & 49th St,casual
+0.01,Public Rack - Langley Ave & 79th St,member
+0.013,Public Rack - Langley Ave & 79th St,casual
+0.04,Public Rack - Langley Ave & Oakwood Blvd,casual
+0.013,Public Rack - Langley Ave & Oakwood Blvd,member
+0.001,Public Rack - Laporte Ave & Armitage Ave,member
+0.002,Public Rack - Laporte Ave & Armitage Ave,casual
+0.015,Public Rack - Laramie Ave & Belmont Ave,casual
+0.019,Public Rack - Laramie Ave & Belmont Ave,member
+0.006,Public Rack - Laramie Ave & Fullerton Ave,casual
+0.012,Public Rack - Laramie Ave & Fullerton Ave,member
+0.012,Public Rack - Laramie Ave & Grand Ave,casual
+0.009,Public Rack - Laramie Ave & Grand Ave,member
+0.012,Public Rack - Laramie Ave & Warwick Ave,casual
+0.002,Public Rack - Laramie Ave & Warwick Ave,member
+0.019,Public Rack - Laramine Ave & Winnemac Ave,member
+0.014,Public Rack - Laramine Ave & Winnemac Ave,casual
+0.002,Public Rack - Latrobe Ave & Lake St,member
+0.027,Public Rack - Lavergne & Lawrence,casual
+0.048,Public Rack - Lavergne & Lawrence,member
+0.026,Public Rack - Lavergne Ave & Belle Plaine Ave,member
+0.021,Public Rack - Lavergne Ave & Belle Plaine Ave,casual
+0.001,Public Rack - Lawndale & 63rd St,casual
+0.04,Public Rack - Lawndale Ave & 23rd St,casual
+0.012,Public Rack - Lawndale Ave & 23rd St,member
+0.103,Public Rack - Lawndale Ave & Diversey Ave,member
+0.039,Public Rack - Lawndale Ave & Diversey Ave,casual
+0.003,Public Rack - Lawndale Ave & Polk St,casual
+0.006,Public Rack - Lawndale Ave & Polk St,member
+0.001,Public Rack - Lawndale Ave & Roosevelt,member
+0.013,Public Rack - Lawrence Ave & Kimball Ave,casual
+0.012,Public Rack - Lawrence Ave & Kimball Ave,member
+0.017,Public Rack - Leader & Caldwell,member
+0.008,Public Rack - Leader & Caldwell,casual
+0.014,Public Rack - Leamington & Elston,casual
+0.043,Public Rack - Leamington & Elston,member
+0.004,Public Rack - Leclaire Ave & Division St,casual
+0.011,Public Rack - Leclaire Ave & Division St,member
+0.005,Public Rack - Legler Regional Library,member
+0.004,Public Rack - Leland Ave & Melvina Ave,member
+0.002,Public Rack - Leland Ave & Melvina Ave,casual
+0.007,Public Rack - Lemont Ave & Keating Ave,member
+0.001,Public Rack - Lemont Ave & Keating Ave,casual
+0.005,Public Rack - Leoti Ave & Central Ave (north),member
+0.004,Public Rack - Leoti Ave & Central Ave (south),member
+0.008,Public Rack - Linder & 51st,casual
+0.001,Public Rack - Linder & 51st,member
+0.005,Public Rack - Linder & Elston,casual
+0.006,Public Rack - Linder & Elston,member
+0.001,Public Rack - Linder Ave & 51st St,member
+0.001,Public Rack - Linder Ave & 64th Pl,member
+0.008,Public Rack - Linder Ave & 64th Pl,casual
+0.006,Public Rack - Linder Ave & Archer Ave,casual
+0.007,Public Rack - Linder Ave & Archer Ave,member
+0.002,Public Rack - Linder Ave & Belmont Ave,member
+0.005,Public Rack - Linder Ave & Belmont Ave,casual
+0.012,Public Rack - Lockwood & Archer,member
+0.033,Public Rack - Lockwood & Archer,casual
+0.011,Public Rack - Lockwood Ave & Diversey Ave,member
+0.011,Public Rack - Lockwood Ave & Diversey Ave,casual
+0.002,Public Rack - Longwood Dr & 111th St,member
+0.004,Public Rack - Longwood Dr & 95th St,casual
+0.01,Public Rack - Longwood Dr & 95th St,member
+0.005,Public Rack - Loomis Blvd & 47th St,casual
+0.004,Public Rack - Loomis Blvd & 47th St,member
+0.001,Public Rack - Loomis Blvd & 83rd St,member
+0.001,Public Rack - Loomis St & 87th St,member
+0.002,Public Rack - Lorel Ave & Chicago Ave,casual
+0.003,Public Rack - Lorel Ave & Chicago Ave,member
+0.004,Public Rack - Lorel Ave & Grand Ave,member
+0.004,Public Rack - Lorel Ave & Grand Ave,casual
+0.002,Public Rack - Lotus Ave & Harrison St,member
+0.012,Public Rack - Lotus Ave & Lawrence Ave,casual
+0.018,Public Rack - Lotus Ave & Lawrence Ave,member
+0.002,Public Rack - Lowe Ave & 94th St,casual
+0.001,Public Rack - Lowe Ave & 94th St,member
+0.001,Public Rack - Lowe Ave & 98th St,member
+0.017,Public Rack - Lowe Park,member
+0.001,Public Rack - Lowe Park,casual
+0.034,Public Rack - Lowell Ave & Elston Ave,member
+0.052,Public Rack - Lowell Ave & Elston Ave,casual
+0.012,Public Rack - Lynch & Elston,casual
+0.024,Public Rack - Lynch & Elston,member
+0.001,Public Rack - Mackinaw Ave & 106th St,member
+0.001,Public Rack - Mackinaw Ave & 106th St,casual
+0.001,Public Rack - Mackinaw Ave & 108th St,member
+0.002,Public Rack - Mackinaw Ave & 85th St,member
+0.005,Public Rack - Mackinaw Ave & 85th St,casual
+0.011,Public Rack - Mango & Higgins,casual
+0.033,Public Rack - Mango & Higgins,member
+0.006,Public Rack - Maplewood Ave & 47th St,member
+0.004,Public Rack - Maplewood Ave & 47th St,casual
+0.004,Public Rack - Maplewood Ave & 63rd St,member
+0.009,Public Rack - Maplewood Ave & 63rd St,casual
+0.002,Public Rack - Marquette Ave & 79th St,member
+0.005,Public Rack - Marquette Ave & 83rd St,member
+0.002,Public Rack - Marquette Ave & 83rd St,casual
+0.001,Public Rack - Marquette Rd & 67th St,casual
+0.002,Public Rack - Marshfield Ave & 45th St,member
+0.003,Public Rack - Marshfield Ave & 45th St,casual
+0.003,Public Rack - Marshfield Ave & 87th St,member
+0.001,Public Rack - Marshfield Ave & 87th St,casual
+0.013,Public Rack - Martin Luther King Dr & 44th St,casual
+0.013,Public Rack - Martin Luther King Dr & 44th St,member
+0.003,Public Rack - Martin Luther King Dr & 69th St,casual
+0.001,Public Rack - Maryland Ave & 87th ST,casual
+0.002,Public Rack - Mason & Archer,member
+0.001,Public Rack - Mason Ave & Archer Ave,casual
+0.001,Public Rack - Mason Ave & Archer Ave,member
+0.002,Public Rack - Mason Ave & Milwaukee Ave,member
+0.001,Public Rack - Mason Ave & Milwaukee Ave,casual
+0.001,Public Rack - Mason Ave & Roosevelt Rd,member
+0.003,Public Rack - Mason Ave & Roosevelt Rd,casual
+0.001,Public Rack - May St & 63rd St,casual
+0.002,Public Rack - May St & 78th St,member
+0.002,Public Rack - May St & 87th St,member
+0.001,Public Rack - May St & 87th St,casual
+0.001,Public Rack - McCormick Blvd & Devon Ave,member
+0.002,Public Rack - McVicker & 52nd,casual
+0.001,Public Rack - McVicker & 52nd,member
+0.002,Public Rack - McVicker Ave & Grand Ave,casual
+0.001,Public Rack - McVicker Ave & Grand Ave,member
+0.002,Public Rack - Meade Ave & Archer Ave,member
+0.002,Public Rack - Meade Ave & Archer Ave,casual
+0.014,Public Rack - Melvina & Foster,member
+0.03,Public Rack - Melvina & Foster,casual
+0.011,Public Rack - Melvina Ave & Belmont Ave,casual
+0.005,Public Rack - Melvina Ave & Belmont Ave,member
+0.021,Public Rack - Melvina Ave & Montrose Ave,member
+0.005,Public Rack - Melvina Ave & Montrose Ave,casual
+0.002,Public Rack - Menard Ave & Adams Blvd,casual
+0.005,Public Rack - Menard Ave & Adams Blvd,member
+0.004,Public Rack - Menard Ave & Agusta Blvd,member
+0.002,Public Rack - Menard Ave & Agusta Blvd,casual
+0.016,Public Rack - Menard Ave & Belmont Ave,casual
+0.03,Public Rack - Menard Ave & Belmont Ave,member
+0.01,Public Rack - Menard Ave & Dakin St - midblock,member
+0.021,Public Rack - Menard Ave & Dakin St - midblock,casual
+0.004,Public Rack - Menard Ave & Grand Ave,member
+0.013,Public Rack - Menard Ave & Grand Ave,casual
+0.001,Public Rack - Menard Ave & Leland Ave,member
+0.001,Public Rack - Menard Ave & Leland Ave,casual
+0.002,Public Rack - Menard Ave & Madison St,member
+0.001,Public Rack - Miami Ave & Milwaukee Ave,member
+0.002,Public Rack - Miami Ave & Milwaukee Ave,casual
+0.007,Public Rack - Michele Clark Magnet High School,member
+0.007,Public Rack - Michele Clark Magnet High School,casual
+0.002,Public Rack - Michigan Ave & 102nd St,member
+0.005,Public Rack - Michigan Ave & 107th St,casual
+0.007,Public Rack - Michigan Ave & 107th St,member
+0.001,Public Rack - Michigan Ave & 110th St,member
+0.002,Public Rack - Michigan Ave & 119th St,casual
+0.007,Public Rack - Michigan Ave & 119th St,member
+0.001,Public Rack - Michigan Ave & 121st St,member
+0.001,Public Rack - Michigan Ave & 125th Pl,member
+0.002,Public Rack - Michigan Ave & 67th St,casual
+0.003,Public Rack - Michigan Ave & 96th St,member
+0.011,Public Rack - Michigan Ave & 96th St,casual
+0.029,Public Rack - Midway Orange Line,member
+0.092,Public Rack - Midway Orange Line,casual
+0.024,Public Rack - Milwaukee Ave & Addison St,casual
+0.02,Public Rack - Milwaukee Ave & Addison St,member
+0.082,Public Rack - Milwaukee Ave & Catalpa Ave,member
+0.025,Public Rack - Milwaukee Ave & Catalpa Ave,casual
+0.047,Public Rack - Milwaukee Ave & Culyer Ave,member
+0.056,Public Rack - Milwaukee Ave & Culyer Ave,casual
+0.19,Public Rack - Milwaukee Ave & Diversey Ave,member
+0.106,Public Rack - Milwaukee Ave & Diversey Ave,casual
+0.092,Public Rack - Milwaukee Ave & Haussen Ct,member
+0.067,Public Rack - Milwaukee Ave & Haussen Ct,casual
+0.13,Public Rack - Milwaukee Ave & Higgins Ave,member
+0.068,Public Rack - Milwaukee Ave & Higgins Ave,casual
+0.029,Public Rack - Milwaukee Ave & Kennedy Expy,casual
+0.05,Public Rack - Milwaukee Ave & Kennedy Expy,member
+0.023,Public Rack - Milwaukee Ave & Lawrence Ave,casual
+0.037,Public Rack - Milwaukee Ave & Lawrence Ave,member
+0.014,Public Rack - Milwaukee Ave & Leland Ave,casual
+0.021,Public Rack - Milwaukee Ave & Leland Ave,member
+0.025,Public Rack - Milwaukee Ave & Pensacola Ave,casual
+0.007,Public Rack - Milwaukee Ave & Pensacola Ave,member
+0.027,Public Rack - Milwaukee Ave & School St,member
+0.014,Public Rack - Milwaukee Ave & School St,casual
+0.003,Public Rack - Milwaukee Ave & Sunnyside Ave,casual
+0.007,Public Rack - Milwaukee Ave & Sunnyside Ave,member
+0.009,Public Rack - Milwaukee Ave & Warner Ave,member
+0.008,Public Rack - Milwaukee Ave & Warner Ave,casual
+0.004,Public Rack - Milwaukee Ave & Waveland Ave,member
+0.006,Public Rack - Milwaukee Ave & Waveland Ave,casual
+0.001,Public Rack - Minnehaha Ave & Devon Ave,casual
+0.006,Public Rack - Minnehaha Ave & Devon Ave,member
+0.009,Public Rack - Minuteman Park,casual
+0.005,Public Rack - Mobile Ave & Archer Ave,member
+0.019,Public Rack - Mobile Ave & Archer Ave,casual
+0.006,Public Rack - Mont Clare Ave & Higgins Ave,casual
+0.014,Public Rack - Mont Clare Ave & Higgins Ave,member
+0.01,Public Rack - Monticello & Lawrence,casual
+0.008,Public Rack - Monticello & Lawrence,member
+0.097,Public Rack - Monticello Ave & Belmont Ave,casual
+0.136,Public Rack - Monticello Ave & Belmont Ave,member
+0.005,Public Rack - Montrose Ave & Lavergne Ave,member
+0.004,Public Rack - Montrose Ave & Lavergne Ave,casual
+0.001,Public Rack - Morgan St & 103rd St,member
+0.004,Public Rack - Morgan St & 87th St,casual
+0.001,Public Rack - Morgan St & 87th St,member
+0.005,Public Rack - Morgan St & 95th St,member
+0.001,Public Rack - Morgan St & 95th St,casual
+0.006,Public Rack - Mozart Elementary School,casual
+0.011,Public Rack - Mozart Elementary School,member
+0.001,Public Rack - Mt Greenwood Library - South,member
+0.005,Public Rack - Mt Greenwood Library - South,casual
+0.001,Public Rack - Mt Greenwood Library N,member
+0.007,Public Rack - Mulligan & Northwest Hwy,member
+0.005,Public Rack - Mulligan & Northwest Hwy,casual
+0.002,Public Rack - Mulligan Ave & 56th St,member
+0.015,Public Rack - Mulligan Ave & 56th St,casual
+0.002,Public Rack - Muskegon Ave & 89th St,member
+0.003,Public Rack - N Narragansett Ave & Grand Ave,member
+0.005,Public Rack - N Narragansett Ave & Grand Ave,casual
+0.001,Public Rack - N Sayre Ave & W Belden Ave,member
+0.002,Public Rack - N Sayre Ave & W Belden Ave,casual
+0.017,Public Rack - N. Oakview and W. Gregory St,casual
+0.019,Public Rack - N. Oakview and W. Gregory St,member
+0.012,Public Rack - Nagel & Higgins,member
+0.051,Public Rack - Nagel & Higgins,casual
+0.047,Public Rack - Nagle Ave & Belmont Ave,member
+0.017,Public Rack - Nagle Ave & Belmont Ave,casual
+0.005,Public Rack - Narragansett Ave & Fullerton Ave,member
+0.006,Public Rack - Narragansett Ave & Fullerton Ave,casual
+0.014,Public Rack - Nashotah & Northwest Hwy,member
+0.017,Public Rack - Nashotah & Northwest Hwy,casual
+0.02,Public Rack - Natoma Ave & 61st St,casual
+0.029,Public Rack - Natoma Ave & Bryn Mawr Ave,casual
+0.088,Public Rack - Natoma Ave & Bryn Mawr Ave,member
+0.01,Public Rack - Neenah & Archer,casual
+0.001,Public Rack - Neenah & Archer,member
+0.003,Public Rack - Neenah & Dakin,casual
+0.002,Public Rack - Neenah & Dakin,member
+0.003,Public Rack - Neola & Northwest Hwy,member
+0.009,Public Rack - Neva & Foster,member
+0.006,Public Rack - Neva Ave & Grand Ave,casual
+0.007,Public Rack - Neva Ave & Grand Ave,member
+0.001,Public Rack - New England Ave & Grace St,member
+0.001,Public Rack - New England Ave & Grace St,casual
+0.001,Public Rack - New England Ave & Irving Park Rd,member
+0.001,Public Rack - Newcastle & Archer,member
+0.027,Public Rack - Newcastle & Archer,casual
+0.004,Public Rack - Newcastle Ave & Belden Ave,member
+0.002,Public Rack - Newcastle Ave & Belden Ave,casual
+0.001,Public Rack - Newcastle Ave & Belmont Ave,member
+0.001,Public Rack - Newcastle Ave & Belmont Ave,casual
+0.002,Public Rack - Newcastle Ave & Wellington Ave,casual
+0.002,Public Rack - Newcastle Ave & Wellington Ave,member
+0.001,Public Rack - Newland Ave & Diversey Ave,casual
+0.002,Public Rack - Newland Ave & Diversey Ave,member
+0.009,Public Rack - Nina Ave & Avondale Ave,member
+0.002,Public Rack - Nina Ave & Avondale Ave,casual
+0.021,Public Rack - Nordica & Archer,casual
+0.011,Public Rack - Nordica & Archer,member
+0.003,Public Rack - Nordica Ave & Addison St,casual
+0.002,Public Rack - Nordica Ave & Addison St,member
+0.002,Public Rack - Nordica Ave & Higgins Ave,member
+0.004,Public Rack - Nordica Ave & Higgins Ave,casual
+0.002,Public Rack - Normal Ave & 111th St,member
+0.013,Public Rack - Normal Ave & 111th St,casual
+0.008,Public Rack - Normal Ave & 72nd St,casual
+0.001,Public Rack - Normal Ave & 72nd St,member
+0.002,Public Rack - Normal Blvd & 61st Pl,member
+0.002,Public Rack - Normal Blvd & 61st Pl,casual
+0.003,Public Rack - Normandy Ave & Archer Ave,casual
+0.002,Public Rack - Normandy Ave & Archer Ave,member
+0.002,Public Rack - Normandy Ave & Raven St,member
+0.016,Public Rack - Northwest Hwy & Bryn Mawr,member
+0.012,Public Rack - Northwest Hwy & Bryn Mawr,casual
+0.002,Public Rack - Northwest Hwy & Highland Ave,casual
+0.01,Public Rack - Northwest Hwy & Neva Ave,member
+0.003,Public Rack - Northwest Hwy & Neva Ave,casual
+0.001,Public Rack - Northwest Hwy & Raven St,member
+0.009,Public Rack - Norwood Park,casual
+0.004,Public Rack - Norwood Park,member
+0.029,Public Rack - Norwood Park Station ,member
+0.015,Public Rack - Norwood Park Station ,casual
+0.002,Public Rack - Oak Park & Higgins,casual
+0.004,Public Rack - Oak Park & Higgins,member
+0.002,Public Rack - Oak Park Ave & Foster Ave,casual
+0.003,Public Rack - Oak Park Ave & Foster Ave,member
+0.002,Public Rack - Oakley Ave & 50th Pl,member
+0.004,Public Rack - Octavia Ave & Touhy Ave,casual
+0.011,Public Rack - Odell & Talcott,member
+0.007,Public Rack - Odell & Talcott,casual
+0.001,Public Rack - Oglesby Ave & 105th St,member
+0.002,Public Rack - Oglesby Ave & 95th St,member
+0.017,Public Rack - Oglesby Ave & 95th St,casual
+0.002,Public Rack - Oketo & Northwest Hwy,member
+0.003,Public Rack - Oketo & Northwest Hwy,casual
+0.009,Public Rack - Oketo & Talcott,casual
+0.003,Public Rack - Oketo & Talcott,member
+0.01,Public Rack - Oketo Ave & Belmont Ave,casual
+0.012,Public Rack - Oketo Ave & Belmont Ave,member
+0.001,Public Rack - Oleander Ave & Addison St,member
+0.024,Public Rack - Olmstead Ave & Oliphant Ave,casual
+0.065,Public Rack - Olmstead Ave & Oliphant Ave,member
+0.001,Public Rack - Orville T Bright School,member
+0.003,Public Rack - Osceola Ave & Touhy Ave,member
+0.001,Public Rack - Osceola Ave & Touhy Ave,casual
+0.004,Public Rack - Ottowa Ave & Touhy Ave,member
+0.002,Public Rack - Ottowa Ave & Touhy Ave,casual
+0.011,Public Rack - Overhill Ave & Touhy Ave,casual
+0.008,Public Rack - Overhill Ave & Touhy Ave,member
+0.001,Public Rack - Ozanam Ave & Devon Ave,member
+0.003,Public Rack - Ozanam Ave & Devon Ave,casual
+0.004,Public Rack - Ozark Ave & Addison St,member
+0.011,Public Rack - Ozark Ave & Addison St,casual
+0.001,Public Rack - Ozman & Talcott,casual
+0.002,Public Rack - Ozman & Talcott,member
+0.001,Public Rack - Panama Ave & Forest Preserve Ave,casual
+0.001,Public Rack - Park Manor Elementary School,member
+0.002,Public Rack - Parkside & 63rd,member
+0.008,Public Rack - Parkside & 63rd,casual
+0.013,Public Rack - Parkside & Archer,member
+0.018,Public Rack - Parkside & Archer,casual
+0.002,Public Rack - Parkside & Elston,casual
+0.004,Public Rack - Parkside & Elston,member
+0.002,Public Rack - Parnell Ave & 103rd St,member
+0.001,Public Rack - Parnell Ave & 119th St,member
+0.001,Public Rack - Parnell Ave & 98th St,member
+0.002,Public Rack - Parnell Ave & 98th St,casual
+0.002,Public Rack - Paul Revere Elementary School,casual
+0.002,Public Rack - Paul Revere Elementary School,member
+0.004,Public Rack - Paxton Ave & 79th St,member
+0.004,Public Rack - Paxton Ave & 79th St,casual
+0.018,Public Rack - Penn Elementary School / KIPP Ascend Middle School,casual
+0.051,Public Rack - Penn Elementary School / KIPP Ascend Middle School,member
+0.004,Public Rack - Peoria St & 60th St,casual
+0.001,Public Rack - Peoria St & 60th St,member
+0.001,Public Rack - Percy Julian HS,member
+0.001,Public Rack - Perry Ave & 108th Pl,member
+0.005,Public Rack - Perry Ave & 111th St,member
+0.002,Public Rack - Perry Ave & 111th St,casual
+0.003,Public Rack - Peterson Ave & Bernard Ave,member
+0.012,Public Rack - Peterson Ave & Drake Ave,member
+0.003,Public Rack - Peterson Ave & Drake Ave,casual
+0.018,Public Rack - Peterson Ave & Milwaukee Ave,casual
+0.016,Public Rack - Peterson Ave & Milwaukee Ave,member
+0.007,Public Rack - Peterson Park,casual
+0.025,Public Rack - Peterson Park,member
+0.002,Public Rack - Piotrowski Park,casual
+0.001,Public Rack - Piotrowski Park,member
+0.002,Public Rack - Pittsburgh Ave & Irving Park,member
+0.001,Public Rack - Plainfield Ave & Irving Park Rd,member
+0.001,Public Rack - Plainfield Ave & Irving Park Rd,casual
+0.032,Public Rack - Prairie Ave & 47th St ,member
+0.022,Public Rack - Prairie Ave & 47th St ,casual
+0.001,Public Rack - Prairie Ave & 78th St,member
+0.001,Public Rack - Prairie Ave & 78th St,casual
+0.001,Public Rack - Prairie Ave & 85th St,casual
+0.002,Public Rack - Prairie Ave & 85th St,member
+0.015,Public Rack - Prairie Ave & Garfield Blvd N,member
+0.02,Public Rack - Prairie Ave & Garfield Blvd N,casual
+0.022,Public Rack - Prairie Ave & Garfield Blvd S,casual
+0.032,Public Rack - Prairie Ave & Garfield Blvd S,member
+0.006,Public Rack - Pratt Ave & Odell Ave,casual
+0.004,Public Rack - Pratt Ave & Odell Ave,member
+0.003,Public Rack - Princeton Ave & 43rd St,member
+0.001,Public Rack - Princeton Ave & 43rd St,casual
+0.001,Public Rack - Princeton Ave & 99th Pl,member
+0.004,Public Rack - Pulaski & 52nd,member
+0.003,Public Rack - Pulaski & 52nd,casual
+0.004,Public Rack - Pulaski & Ardmore,casual
+0.005,Public Rack - Pulaski & Ardmore,member
+0.009,Public Rack - Pulaski & Rosemont,casual
+0.023,Public Rack - Pulaski & Rosemont,member
+0.004,Public Rack - Pulaski Rd & 15th St,member
+0.001,Public Rack - Pulaski Rd & 40th St,member
+0.001,Public Rack - Pulaski Rd & 40th St,casual
+0.001,Public Rack - Pulaski Rd & 41st,member
+0.002,Public Rack - Pulaski Rd & 41st,casual
+0.102,Public Rack - Pulaski Rd & 44th St,casual
+0.068,Public Rack - Pulaski Rd & 44th St,member
+0.001,Public Rack - Pulaski Rd & 51st Rd,casual
+0.005,Public Rack - Pulaski Rd & 51st Rd,member
+0.002,Public Rack - Pulaski Rd & 5th Ave,casual
+0.001,Public Rack - Pulaski Rd & 5th Ave,member
+0.016,Public Rack - Pulaski Rd & 65th St,member
+0.01,Public Rack - Pulaski Rd & 65th St,casual
+0.001,Public Rack - Pulaski Rd & 83rd St,member
+0.021,Public Rack - Pulaski Rd & Armitage Ave,casual
+0.071,Public Rack - Pulaski Rd & Armitage Ave,member
+0.028,Public Rack - Pulaski Rd & Fullerton Ave,member
+0.022,Public Rack - Pulaski Rd & Fullerton Ave,casual
+0.003,Public Rack - Pulaski Rd & Grenshaw St,member
+0.005,Public Rack - Pulaski Rd & Lake St,member
+0.014,Public Rack - Pulaski Rd & Lake St,casual
+0.001,Public Rack - Pulaski Rd & Lexington St,casual
+0.003,Public Rack - Pulaski Rd & Polk St,member
+0.002,Public Rack - Pulaski Rd & Roosevelt Rd,member
+0.003,Public Rack - Pulaski Rd & Roosevelt Rd,casual
+0.002,Public Rack - Pulaski Rd & Stevens Ave,casual
+0.007,Public Rack - Pulaski Rd & Stevens Ave,member
+0.002,Public Rack - Pullman - Planet Fitness,member
+0.002,Public Rack - Pullman - Planet Fitness,casual
+0.004,Public Rack - Pullman - Ross Dress for Less,casual
+0.001,Public Rack - Pullman - Ross Dress for Less,member
+0.002,Public Rack - Pullman - Walmart,casual
+0.003,Public Rack - Pullman - Walmart,member
+0.002,Public Rack - Pullman Community Center,member
+0.275,Public Rack - Racine Ave & 109th Pl,member
+0.016,Public Rack - Racine Ave & 109th Pl,casual
+0.025,Public Rack - Racine Ave & 74th St,member
+0.001,Public Rack - Racine Ave & 74th St,casual
+0.001,Public Rack - Racine Ave & 76th,member
+0.003,Public Rack - Racine Ave & 83rd St,casual
+0.001,Public Rack - Racine Ave & 83rd St,member
+0.008,Public Rack - Richard Daley College,casual
+0.004,Public Rack - Richmond St & Thorndale Ave,casual
+0.003,Public Rack - Richmond St & Thorndale Ave,member
+0.002,Public Rack - Robert Fulton Elementary School,member
+0.01,Public Rack - Robert Fulton Elementary School,casual
+0.002,Public Rack - Rockwell & 111th St,member
+0.078,Public Rack - Rockwell & Division,casual
+0.242,Public Rack - Rockwell & Division,member
+0.002,Public Rack - Rockwell Ave & 71st St,member
+0.043,Public Rack - Rockwell Ave & Touhy Ave ,member
+0.044,Public Rack - Rockwell Ave & Touhy Ave ,casual
+0.001,Public Rack - Roscoe St & Osceola Ave,member
+0.002,Public Rack - Roswell B. Mason Elementary School,member
+0.002,Public Rack - Rutherford & 53rd,member
+0.001,Public Rack - Rutherford & 53rd,casual
+0.007,Public Rack - Rutherford Ave & Belmont Ave,casual
+0.001,Public Rack - Rutherford Ave & Belmont Ave,member
+0.002,Public Rack - S Kostner Ave & W 18th Pl,casual
+0.003,Public Rack - S Kostner Ave & W 18th Pl,member
+0.008,Public Rack - S Menard & W 63rd,casual
+0.005,Public Rack - S. Kilpatrick and W. 79th,member
+0.008,Public Rack - S. Kilpatrick and W. 79th,casual
+0.001,Public Rack - S. New England/ W. 65th,casual
+0.001,Public Rack - S. New England/ W. 65th,member
+0.001,Public Rack - Sacramento & 71st,member
+0.027,Public Rack - Sacramento Ave & Devon Ave,member
+0.021,Public Rack - Sacramento Ave & Devon Ave,casual
+0.001,Public Rack - Sacramento Ave & Greenleaf Ave,member
+0.002,Public Rack - Sacramento Blvd & Washington Blvd,member
+0.001,Public Rack - Saginaw Ave & 93rd St,member
+0.001,Public Rack - Sangamon St & 79th St,casual
+0.002,Public Rack - Sangamon St & 79th St,member
+0.001,Public Rack - Sangamon St & 87th St,member
+0.002,Public Rack - Sangamon St & 87th St,casual
+0.001,Public Rack - Sawyer Ave & 111th St,member
+0.038,Public Rack - Sawyer Ave & Bryn Mawr Ave - SE,casual
+0.01,Public Rack - Sawyer Ave & Bryn Mawr Ave - SE,member
+0.008,Public Rack - Sawyer Ave & Bryn Mawr Ave - SW,member
+0.007,Public Rack - Sawyer Ave & Bryn Mawr Ave - SW,casual
+0.003,Public Rack - Sawyer Ave & Chicago Ave,member
+0.002,Public Rack - Sawyer Ave & Chicago Ave,casual
+0.02,Public Rack - Sawyer Ave & Lawrence Ave,casual
+0.039,Public Rack - Sawyer Ave & Lawrence Ave,member
+0.007,Public Rack - Sayer & Northwest Hwy,member
+0.006,Public Rack - Sayer & Northwest Hwy,casual
+0.009,Public Rack - Sayre Ave & 59th St,casual
+0.001,"Public Rack - Senka ""Edward Duke"" Park",casual
+0.003,"Public Rack - Senka ""Edward Duke"" Park",member
+0.007,Public Rack - South Shore Dr & 71st St,casual
+0.004,Public Rack - South Shore Dr & 71st St,member
+0.003,Public Rack - South Shore High School,casual
+0.004,Public Rack - South Shore High School,member
+0.01,Public Rack - Spaulding Ave & Bryn Mawr Ave,member
+0.017,Public Rack - Spaulding Ave & Bryn Mawr Ave,casual
+0.164,Public Rack - Spaulding Ave & Evergreen Ave,member
+0.07,Public Rack - Spaulding Ave & Evergreen Ave,casual
+0.002,Public Rack - Spaulding Ave & Foster Ave,casual
+0.008,Public Rack - Spaulding Ave & Foster Ave,member
+0.096,Public Rack - Spaulding Ave & North Ave,member
+0.052,Public Rack - Spaulding Ave & North Ave,casual
+0.002,Public Rack - Spencer Elementary Technology Academy,member
+0.002,Public Rack - Springfield & 71st,casual
+0.001,Public Rack - Springfield & 79th,casual
+0.001,Public Rack - Springfield Ave & 63rd St,casual
+0.024,Public Rack - Springfield Ave & Lawrence Ave,casual
+0.04,Public Rack - Springfield Ave & Lawrence Ave,member
+0.002,Public Rack - St Louis & 83rd,casual
+0.014,Public Rack - St Louis & Lincoln,casual
+0.012,Public Rack - St Louis & Lincoln,member
+0.023,Public Rack - St Louis Ave & Berteau Ave,casual
+0.016,Public Rack - St Louis Ave & Berteau Ave,member
+0.002,Public Rack - St Louis Ave & Flournoy St,member
+0.001,Public Rack - St Louis Ave & Flournoy St,casual
+0.008,Public Rack - State ST & 42nd St,casual
+0.013,Public Rack - State ST & 42nd St,member
+0.003,Public Rack - State St & 47th st,member
+0.002,Public Rack - State St & 47th st,casual
+0.012,Public Rack - Stewart Ave & 123rd St,casual
+0.002,Public Rack - Stewart Ave & 123rd St,member
+0.002,Public Rack - Stony Is Ave & 73rd St,casual
+0.003,Public Rack - Stony Is Ave & 73rd St,member
+0.003,Public Rack - Stony Island & 87th St,casual
+0.002,Public Rack - Stony Island & 87th St,member
+0.001,Public Rack - Stony Island & 95th St,member
+0.002,Public Rack - Stony Island & 95th St,casual
+0.001,Public Rack - Stony Island Ave & 86th St,member
+0.001,Public Rack - Strohacker Park,casual
+0.012,Public Rack - Talman Ave & 51st St,member
+0.009,Public Rack - Talman Ave & 51st St,casual
+0.006,Public Rack - Talman Ave & Pershing Rd,casual
+0.005,Public Rack - Talman Ave & Pershing Rd,member
+0.006,Public Rack - The Montessori School of Englewood,casual
+0.002,Public Rack - The Montessori School of Englewood,member
+0.004,Public Rack - Throop St & 109th Pl,casual
+0.018,Public Rack - Throop St & 109th Pl,member
+0.003,Public Rack - Throop St & 48t ST,member
+0.082,Public Rack - Throop St & 58th St,member
+0.028,Public Rack - Throop St & 58th St,casual
+0.001,Public Rack - Torrence Ave  & 106th St,member
+0.001,Public Rack - Torrence Ave & 103rd St,member
+0.003,Public Rack - Torrence Ave & 98th St,casual
+0.002,Public Rack - Torrence Ave & 98th St,member
+0.01,Public Rack - Touhy Ave & Oconto Ave,casual
+0.004,Public Rack - Touhy Ave & Oconto Ave,member
+0.006,Public Rack - Tripp Ave & North Ave,casual
+0.007,Public Rack - Tripp Ave & North Ave,member
+0.002,Public Rack - Troy & 111th St,casual
+0.001,Public Rack - Troy & 111th St,member
+0.001,Public Rack - Troy & 71st,casual
+0.001,Public Rack - Trumbull Ave & 111th St,casual
+0.001,Public Rack - Trumbull Ave & 111th St,member
+0.001,Public Rack - Tuley (Murray) Park,member
+0.001,Public Rack - Union Ave & 111th St,member
+0.003,Public Rack - Vincennes Ave & 77th St,casual
+0.004,Public Rack - Vincennes Ave & 77th St,member
+0.002,Public Rack - Vincennes Ave & 87th St,member
+0.001,Public Rack - Vincennes Ave & 91st St,member
+0.002,Public Rack - Vincennes Ave & 95th Pl,casual
+0.001,Public Rack - Vincennes Ave & 95th Pl,member
+0.002,Public Rack - Vincennes Ave & 95th St,casual
+0.003,Public Rack - Vincennes Ave & 95th St,member
+0.001,Public Rack - Vincennes Ave & 99th St,member
+0.002,Public Rack - W. Talcott & N. Oriole,member
+0.001,Public Rack - W. Talcott & N. Oriole,casual
+0.001,Public Rack - Wabash Ave & 87th St,casual
+0.021,Public Rack - Walden Pkwy & 103rd St,casual
+0.06,Public Rack - Walden Pkwy & 103rd St,member
+0.006,Public Rack - Walden Pkwy & 99th St,member
+0.004,Public Rack - Walden Pkwy & 99th St,casual
+0.001,Public Rack - Wallace St & 112 St,member
+0.001,Public Rack - Wallace St & 119th St,member
+0.001,Public Rack - Waller Ave & Chicago Ave,member
+0.018,Public Rack - Washington Park Ct & 51st St,member
+0.03,Public Rack - Washington Park Ct & 51st St,casual
+0.001,Public Rack - Washtenaw Ave & 63rd St,member
+0.001,Public Rack - Washtenaw Ave & 63rd St,casual
+0.068,Public Rack - Washtenaw Ave & Devon Ave,casual
+0.128,Public Rack - Washtenaw Ave & Devon Ave,member
+0.574,Public Rack - Washtenaw Ave & Superior St,member
+0.22,Public Rack - Washtenaw Ave & Superior St,casual
+0.006,Public Rack - Wentworth Ave & 103rd St,casual
+0.003,Public Rack - Wentworth Ave & 103rd St,member
+0.01,Public Rack - Wentworth Park,casual
+0.003,Public Rack - Wentworth Park,member
+0.001,Public Rack - West Chatham Park,casual
+0.001,Public Rack - West Lawn Park,member
+0.002,Public Rack - Western & 83rd,casual
+0.018,Public Rack - Western & 83rd,member
+0.013,Public Rack - Western Ave & 100th St,casual
+0.019,Public Rack - Western Ave & 100th St,member
+0.003,Public Rack - Western Ave & 104th St - East,member
+0.003,Public Rack - Western Ave & 104th St - East,casual
+0.002,Public Rack - Western Ave & 104th St - West,member
+0.004,Public Rack - Western Ave & 105th St,casual
+0.003,Public Rack - Western Ave & 105th St,member
+0.002,Public Rack - Western Ave & 106th St - East,member
+0.009,Public Rack - Western Ave & 106th St - East,casual
+0.002,Public Rack - Western Ave & 106th St - West,member
+0.001,Public Rack - Western Ave & 107th Pl,casual
+0.002,Public Rack - Western Ave & 107th Pl,member
+0.002,Public Rack - Western Ave & 107th St,member
+0.004,Public Rack - Western Ave & 110th St,casual
+0.012,Public Rack - Western Ave & 110th St,member
+0.002,Public Rack - Western Ave & 111th St - NW,member
+0.003,Public Rack - Western Ave & 111th St - SE,member
+0.003,Public Rack - Western Ave & 111th St - SE,casual
+0.008,Public Rack - Western Ave & 111th St - SW,casual
+0.005,Public Rack - Western Ave & 111th St - SW,member
+0.002,Public Rack - Western Ave & 116th St,member
+0.003,Public Rack - Western Ave & 118th St,casual
+0.005,Public Rack - Western Ave & 118th St,member
+0.009,Public Rack - Western Ave & 47th Pl,casual
+0.036,Public Rack - Western Ave & 47th Pl,member
+0.001,Public Rack - Western Ave & 62nd St,member
+0.002,Public Rack - Western Ave & 62nd St,casual
+0.02,Public Rack - Western Ave & 92nd Pl,member
+0.014,Public Rack - Western Ave & 92nd Pl,casual
+0.005,Public Rack - Western Ave & 96th St,casual
+0.042,Public Rack - Western Ave & 96th St,member
+0.001,Public Rack - Western Ave & 98th St,member
+0.001,Public Rack - Western Ave & 98th St,casual
+0.062,Public Rack - Western Ave & Devon Ave,casual
+0.236,Public Rack - Western Ave & Devon Ave,member
+0.012,Public Rack - Western Ave & Jarvis Ave,casual
+0.016,Public Rack - Western Ave & Jarvis Ave,member
+0.055,Public Rack - Western Blvd & 49th St,casual
+0.02,Public Rack - Western Blvd & 49th St,member
+0.002,Public Rack - Western Blvd & 52nd St,member
+0.001,Public Rack - Western Blvd & 52nd St,casual
+0.002,Public Rack - Western Blvd & 53rd St,member
+0.001,Public Rack - Western Blvd & 53rd St,casual
+0.002,Public Rack - Whipple St & 26th St,casual
+0.001,Public Rack - Whipple St & 26th St,member
+0.011,Public Rack - Whipple St & 63rd St,casual
+0.006,Public Rack - Whipple St & 63rd St,member
+0.002,Public Rack - Wilbur Wright College North,member
+0.002,Public Rack - Wilbur Wright College North,casual
+0.061,Public Rack - Wilbur Wright College South,member
+0.041,Public Rack - Wilbur Wright College South,casual
+0.002,Public Rack - William J Onahan Public School,member
+0.001,Public Rack - William J Onahan Public School,casual
+0.001,Public Rack - William Rainey Harper High School,member
+0.015,Public Rack - Winona St & Elston Ave,member
+0.01,Public Rack - Winona St & Elston Ave,casual
+0.001,Public Rack - Wolcott Ave & 56th St,casual
+0.001,Public Rack - Wolcott Ave & 56th St,member
+0.033,Public Rack - Wolcott Ave & 61st St,member
+0.009,Public Rack - Wolcott Ave & 61st St,casual
+0.003,Public Rack - Wood St & 103rd St,member
+0.005,Public Rack - Wood St & 103rd St,casual
+0.005,Public Rack - Wood St & 47th St,casual
+0.009,Public Rack - Wood St & 47th St,member
+0.368,Public Rack - Woodlawn Ave & 63rd St N,member
+0.149,Public Rack - Woodlawn Ave & 63rd St N,casual
+0.025,Public Rack - Woodlawn Ave & 63rd St S,member
+0.019,Public Rack - Woodlawn Ave & 63rd St S,casual
+0.001,Public Rack - Yale Ave & 119th St,member
+0.002,Public Rack - Yates Ave & 100th St,casual
+0.004,Public Rack - Yates Ave & 100th St,member
+0.004,Public Rack - Yates Blvd & Exchange Ave,member
+0.002,Public Rack - Zapata Academy,member
+0.099,Pulaski & Ann Lurie Pl,member
+0.039,Pulaski & Ann Lurie Pl,casual
+0.02,Pulaski Rd & 21st St,casual
+0.012,Pulaski Rd & 21st St,member
+0.314,Pulaski Rd & 51st St,member
+0.477,Pulaski Rd & 51st St,casual
+0.04,Pulaski Rd & 54th St,member
+0.066,Pulaski Rd & 54th St,casual
+0.002,Pulaski Rd & 60th Pl,member
+0.003,Pulaski Rd & 60th Pl,casual
+0.023,Pulaski Rd & 60th St,member
+0.05,Pulaski Rd & 60th St,casual
+0.041,Pulaski Rd & 68th St,casual
+0.046,Pulaski Rd & 68th St,member
+0.048,Pulaski Rd & 84th St,casual
+0.001,Pulaski Rd & 84th St,member
+0.009,Pulaski Rd & Ann Lurie Pl,casual
+0.023,Pulaski Rd & Ann Lurie Pl,member
+0.042,Pulaski Rd & Congress Pkwy,casual
+0.02,Pulaski Rd & Congress Pkwy,member
+0.285,Pulaski Rd & Eddy St,casual
+0.303,Pulaski Rd & Eddy St,member
+0.051,Pulaski Rd & Lake St,member
+0.079,Pulaski Rd & Lake St,casual
+0.004,Racine Ave & 115th St,member
+0.951,Racine Ave & 13th St,member
+0.385,Racine Ave & 13th St,casual
+2.245,Racine Ave & 15th St,member
+0.944,Racine Ave & 15th St,casual
+2.174,Racine Ave & 18th St,casual
+4.46,Racine Ave & 18th St,member
+1.0,Racine Ave & 35th St,member
+0.446,Racine Ave & 35th St,casual
+0.023,Racine Ave & 57th St,casual
+0.012,Racine Ave & 57th St,member
+0.007,Racine Ave & 61st St,member
+0.029,Racine Ave & 61st St,casual
+0.01,Racine Ave & 65th St,casual
+0.008,Racine Ave & 65th St,member
+7.134,Racine Ave & Belmont Ave,member
+4.124,Racine Ave & Belmont Ave,casual
+5.923,Racine Ave & Congress Pkwy,member
+1.389,Racine Ave & Congress Pkwy,casual
+9.403,Racine Ave & Fullerton Ave,member
+3.201,Racine Ave & Fullerton Ave,casual
+0.041,Racine Ave & Garfield Blvd,casual
+0.039,Racine Ave & Garfield Blvd,member
+2.576,Racine Ave & Randolph St,member
+1.106,Racine Ave & Randolph St,casual
+3.974,Racine Ave & Washington Blvd,member
+1.529,Racine Ave & Washington Blvd,casual
+2.309,Racine Ave & Wrightwood Ave,casual
+4.885,Racine Ave & Wrightwood Ave,member
+0.098,Rainbow - Beach,casual
+0.201,Rainbow - Beach,member
+1.091,Ravenswood Ave & Berteau Ave,casual
+3.164,Ravenswood Ave & Berteau Ave,member
+4.332,Ravenswood Ave & Irving Park Rd,member
+1.62,Ravenswood Ave & Irving Park Rd,casual
+4.975,Ravenswood Ave & Lawrence Ave,casual
+13.492,Ravenswood Ave & Lawrence Ave,member
+7.381,Rhodes Ave & 32nd St,member
+0.653,Rhodes Ave & 32nd St,casual
+0.015,Rhodes Ave & 71st St,casual
+0.016,Rhodes Ave & 71st St,member
+0.026,Richmond St & 59th St,member
+0.084,Richmond St & 59th St,casual
+1.685,Richmond St & Diversey Ave,member
+1.043,Richmond St & Diversey Ave,casual
+0.391,Richmond St & Lincoln Ave,member
+0.168,Richmond St & Lincoln Ave,casual
+0.286,Ridge Blvd & Howard St,casual
+0.592,Ridge Blvd & Howard St,member
+0.606,Ridge Blvd & Touhy Ave,member
+0.318,Ridge Blvd & Touhy Ave,casual
+4.522,Ritchie Ct & Banks St,casual
+7.149,Ritchie Ct & Banks St,member
+0.009,Rockwell St & 47th St,member
+0.017,Rockwell St & 47th St,casual
+0.057,Rockwell St & 57th St,casual
+0.066,Rockwell St & 57th St,member
+0.031,Rockwell St & 63rd St,casual
+0.016,Rockwell St & 63rd St,member
+0.091,Rockwell St & Archer Ave,member
+0.059,Rockwell St & Archer Ave,casual
+0.117,Rockwell St & Archer Ave\t,casual
+0.131,Rockwell St & Archer Ave\t,member
+0.474,Rockwell St & Cermak Rd,member
+0.171,Rockwell St & Cermak Rd,casual
+2.23,Rockwell St & Eastwood Ave,member
+0.922,Rockwell St & Eastwood Ave,casual
+0.715,Rockwell St & Fletcher St,casual
+1.072,Rockwell St & Fletcher St,member
+0.051,Roscoe & Harlem,casual
+0.013,Roscoe & Harlem,member
+10.354,Rush St & Cedar St,member
+5.693,Rush St & Cedar St,casual
+3.987,Rush St & Hubbard St,casual
+7.039,Rush St & Hubbard St,member
+5.294,Rush St & Superior St,casual
+9.615,Rush St & Superior St,member
+0.005,S Aberdeen St & W 106th St,member
+0.013,S Aberdeen St & W 106th St,casual
+0.018,S Michigan Ave & E 118th St,casual
+0.003,S Michigan Ave & E 118th St,member
+0.003,S Wentworth Ave & W 111th St,member
+0.009,S Wentworth Ave & W 111th St,casual
+0.002,SCOOTERS CLASSIC - 2132 W Hubbard ST,member
+0.06,Sacramento Ave & 25th St,member
+0.043,Sacramento Ave & 25th St,casual
+0.003,Sacramento Ave & 51st St,casual
+0.004,Sacramento Ave & 51st St,member
+0.13,Sacramento Ave & Lunt Ave,casual
+0.088,Sacramento Ave & Lunt Ave,member
+0.003,Sacramento Ave & Pershing Rd,member
+0.009,Sacramento Ave & Pershing Rd,casual
+0.101,Sacramento Ave & Pratt Blvd,casual
+0.097,Sacramento Ave & Pratt Blvd,member
+0.452,Sacramento Blvd & Addison St,member
+0.392,Sacramento Blvd & Addison St,casual
+0.45,Sacramento Blvd & Franklin Blvd,member
+0.103,Sacramento Blvd & Franklin Blvd,casual
+0.132,Sacramento Blvd & Fulton Ave,casual
+0.186,Sacramento Blvd & Fulton Ave,member
+0.034,Sacramento Blvd & Polk St,casual
+0.006,Sacramento Blvd & Polk St,member
+3.23,Sangamon St & Lake St,casual
+7.664,Sangamon St & Lake St,member
+5.618,Sangamon St & Washington Blvd,member
+2.627,Sangamon St & Washington Blvd,casual
+0.862,Sawyer Ave & Irving Park Rd,member
+0.413,Sawyer Ave & Irving Park Rd,casual
+0.031,Sayre & Diversey,casual
+0.001,Sayre & Diversey,member
+0.105,Sayre Ave & Diversey Ave,casual
+0.053,Sayre Ave & Diversey Ave,member
+0.012,Scottsdale Park,member
+0.058,Scottsdale Park,casual
+11.839,Sedgwick St & Huron St,member
+3.827,Sedgwick St & Huron St,casual
+8.774,Sedgwick St & North Ave,member
+4.919,Sedgwick St & North Ave,casual
+1.645,Sedgwick St & Schiller St,casual
+2.999,Sedgwick St & Schiller St,member
+4.412,Sedgwick St & Webster Ave,casual
+8.869,Sedgwick St & Webster Ave,member
+0.037,Seeley Ave & Garfield Blvd,member
+0.03,Seeley Ave & Garfield Blvd,casual
+3.858,Seeley Ave & Roscoe St,member
+1.849,Seeley Ave & Roscoe St,casual
+0.054,Shabbona Park,member
+0.159,Shabbona Park,casual
+4.755,Shedd Aquarium,member
+20.742,Shedd Aquarium,casual
+6.431,Sheffield Ave & Fullerton Ave,casual
+14.123,Sheffield Ave & Fullerton Ave,member
+9.541,Sheffield Ave & Kingsbury St,member
+3.568,Sheffield Ave & Kingsbury St,casual
+6.983,Sheffield Ave & Waveland Ave,casual
+10.043,Sheffield Ave & Waveland Ave,member
+4.937,Sheffield Ave & Webster Ave,casual
+9.37,Sheffield Ave & Webster Ave,member
+10.193,Sheffield Ave & Wellington Ave,member
+4.642,Sheffield Ave & Wellington Ave,casual
+2.492,Sheffield Ave & Willow St,casual
+6.243,Sheffield Ave & Willow St,member
+5.729,Sheffield Ave & Wrightwood Ave,casual
+9.13,Sheffield Ave & Wrightwood Ave,member
+4.737,Sheridan Rd & Argyle St,member
+2.371,Sheridan Rd & Argyle St,casual
+7.293,Sheridan Rd & Buena Ave,member
+2.89,Sheridan Rd & Buena Ave,casual
+0.979,Sheridan Rd & Columbia Ave,casual
+2.455,Sheridan Rd & Columbia Ave,member
+1.644,Sheridan Rd & Greenleaf Ave,member
+0.753,Sheridan Rd & Greenleaf Ave,casual
+10.978,Sheridan Rd & Irving Park Rd,member
+4.656,Sheridan Rd & Irving Park Rd,casual
+2.103,Sheridan Rd & Lawrence Ave,casual
+4.357,Sheridan Rd & Lawrence Ave,member
+2.614,Sheridan Rd & Loyola Ave,member
+1.904,Sheridan Rd & Loyola Ave,casual
+9.377,Sheridan Rd & Montrose Ave,member
+4.334,Sheridan Rd & Montrose Ave,casual
+3.057,Sheridan Rd & Noyes St (NU),member
+2.711,Sheridan Rd & Noyes St (NU),casual
+2.553,Shields Ave & 28th Pl,member
+0.412,Shields Ave & 28th Pl,casual
+0.656,Shields Ave & 31st St,casual
+4.047,Shields Ave & 31st St,member
+0.217,Shields Ave & 43rd St,member
+0.035,Shields Ave & 43rd St,casual
+0.002,Shields Ave & 57th St,casual
+0.002,Shields Ave & 57th St,member
+5.016,Shore Dr & 55th St,casual
+6.73,Shore Dr & 55th St,member
+0.667,Smith Park,casual
+1.438,Smith Park,member
+0.014,South Chicago Ave & 83rd St,casual
+0.014,South Chicago Ave & 83rd St,member
+0.004,South Chicago Ave & Elliot Ave,member
+0.008,South Chicago Ave & Elliot Ave,casual
+0.494,South Shore Dr & 67th St,casual
+0.755,South Shore Dr & 67th St,member
+0.658,South Shore Dr & 71st St,member
+0.501,South Shore Dr & 71st St,casual
+0.226,South Shore Dr & 74th St,casual
+0.13,South Shore Dr & 74th St,member
+3.295,Southport Ave & Belmont Ave,casual
+7.31,Southport Ave & Belmont Ave,member
+1.489,Southport Ave & Clark St,casual
+2.019,Southport Ave & Clark St,member
+4.353,Southport Ave & Clybourn Ave,member
+2.416,Southport Ave & Clybourn Ave,casual
+5.386,Southport Ave & Irving Park Rd,member
+2.58,Southport Ave & Irving Park Rd,casual
+5.611,Southport Ave & Roscoe St,casual
+10.541,Southport Ave & Roscoe St,member
+5.301,Southport Ave & Waveland Ave,casual
+11.834,Southport Ave & Waveland Ave,member
+7.571,Southport Ave & Wellington Ave,member
+4.263,Southport Ave & Wellington Ave,casual
+6.871,Southport Ave & Wrightwood Ave,member
+3.455,Southport Ave & Wrightwood Ave,casual
+0.004,Spaulding Ave & 16th,casual
+0.023,Spaulding Ave & 16th St,member
+0.064,Spaulding Ave & 16th St,casual
+0.025,Spaulding Ave & 63rd,casual
+0.018,Spaulding Ave & 63rd,member
+0.001,Spaulding Ave & 63rd St,casual
+3.602,Spaulding Ave & Armitage Ave,member
+1.878,Spaulding Ave & Armitage Ave,casual
+0.634,Spaulding Ave & Division St,casual
+1.287,Spaulding Ave & Division St,member
+0.157,Springfield Ave & 47th St,casual
+0.023,Springfield Ave & 47th St,member
+0.021,Springfield Ave & 71st St,member
+0.098,Springfield Ave & 71st St,casual
+0.042,Springfield Ave & 80th St,casual
+0.012,Springfield Ave & 80th St,member
+0.236,Springfield Ave & North Ave,casual
+0.247,Springfield Ave & North Ave,member
+0.023,St Louis Ave & 51st St,member
+0.123,St Louis Ave & 59th St,member
+0.064,St Louis Ave & 59th St,casual
+0.196,St Louis Ave & Foster Ave,casual
+0.272,St Louis Ave & Foster Ave,member
+0.014,St Louis Ave & Norman Bobbins Ave,member
+0.062,St Louis Ave & Norman Bobbins Ave,casual
+0.109,St Louis Ave & Norman Bobbins Pl,casual
+0.026,St Louis Ave & Norman Bobbins Pl,member
+12.03,St. Clair St & Erie St,member
+5.282,St. Clair St & Erie St,casual
+0.056,St. Louis & 71st St,casual
+0.003,St. Louis & 71st St,member
+0.631,St. Louis Ave & Balmoral Ave,member
+0.357,St. Louis Ave & Balmoral Ave,casual
+1.091,St. Louis Ave & Fullerton Ave,casual
+2.138,St. Louis Ave & Fullerton Ave,member
+0.002,State St & 111th St,member
+0.002,State St & 111th St,casual
+0.001,State St & 123rd St,member
+0.013,State St & 123rd St,casual
+1.809,State St & 19th St,member
+1.086,State St & 19th St,casual
+0.256,State St & 29th St,casual
+0.619,State St & 29th St,member
+1.456,State St & 33rd St,casual
+13.871,State St & 33rd St,member
+4.444,State St & 35th St,member
+0.761,State St & 35th St,casual
+0.02,State St & 45th St,casual
+0.027,State St & 45th St,member
+0.108,State St & 54th St,casual
+0.145,State St & 54th St,member
+0.037,State St & 76th St,member
+0.025,State St & 76th St,casual
+0.08,State St & 79th St,casual
+0.142,State St & 79th St,member
+0.282,State St & 95th St,casual
+0.149,State St & 95th St,member
+18.783,State St & Chicago Ave,member
+7.959,State St & Chicago Ave,casual
+3.766,State St & Harrison St,casual
+4.817,State St & Harrison St,member
+5.585,State St & Kinzie St,casual
+9.102,State St & Kinzie St,member
+2.603,State St & Pearson St,casual
+6.099,State St & Pearson St,member
+0.096,State St & Pershing Rd,member
+0.055,State St & Pershing Rd,casual
+6.385,State St & Randolph St,casual
+9.886,State St & Randolph St,member
+3.644,State St & Van Buren St,casual
+5.191,State St & Van Buren St,member
+1.718,Stave St & Armitage Ave,casual
+3.173,Stave St & Armitage Ave,member
+0.03,Steelworkers Park,member
+0.107,Steelworkers Park,casual
+4.33,Stetson Ave & South Water St,casual
+7.331,Stetson Ave & South Water St,member
+0.014,Stewart Ave & 123rd St,casual
+0.031,Stewart Ave & 63rd St,casual
+0.044,Stewart Ave & 63rd St,member
+0.026,Stewart Ave & 83rd St,member
+0.042,Stewart Ave & 83rd St,casual
+8.957,Stockton Dr & Wrightwood Ave,member
+5.892,Stockton Dr & Wrightwood Ave,casual
+0.221,Stony Island Ave & 63rd St,casual
+0.203,Stony Island Ave & 63rd St,member
+0.091,Stony Island Ave & 64th St,member
+0.123,Stony Island Ave & 64th St,casual
+0.115,Stony Island Ave & 67th St,member
+0.191,Stony Island Ave & 67th St,casual
+0.078,Stony Island Ave & 71st St,casual
+0.248,Stony Island Ave & 71st St,member
+0.18,Stony Island Ave & 75th St,member
+0.066,Stony Island Ave & 75th St,casual
+0.029,Stony Island Ave & 82nd St,casual
+0.022,Stony Island Ave & 82nd St,member
+0.015,Stony Island Ave & 90th St,member
+0.016,Stony Island Ave & 90th St,casual
+0.026,Stony Island Ave & South Chicago Ave,member
+0.019,Stony Island Ave & South Chicago Ave,casual
+50.269,Streeter Dr & Grand Ave,casual
+14.757,Streeter Dr & Grand Ave,member
+2.589,Streeter Dr/Grand Ave,member
+5.333,Streeter Dr/Grand Ave,casual
+0.032,Summit Ave & 86th St,casual
+0.087,Summit Ave & 86th St,member
+2.031,Talman Ave & Addison St,member
+1.128,Talman Ave & Addison St,casual
+12.692,Theater on the Lake,member
+16.562,Theater on the Lake,casual
+0.008,Throop St & 52nd St,casual
+0.01,Throop St & 52nd St,member
+0.002,Throop St & 99th St,member
+0.001,Throop St & 99th St,casual
+1.605,Throop St & Taylor St,casual
+6.153,Throop St & Taylor St,member
+0.003,Torrence Ave & 106th St,member
+0.018,Torrence Ave & 106th St,casual
+0.002,Torrence Ave & 126th Pl,member
+0.055,Torrence Ave & 126th Pl,casual
+0.017,Tripp Ave & 15th St,member
+0.013,Tripp Ave & 15th St,casual
+0.018,Tripp Ave & 31st St,member
+0.036,Tripp Ave & 31st St,casual
+0.028,Tripp Ave & 65th St,member
+0.098,Tripp Ave & 65th St,casual
+0.02,Troy Ave & 27th St,casual
+0.018,Troy Ave & 27th St,member
+1.701,Troy St & Elston Ave,member
+0.566,Troy St & Elston Ave,casual
+0.587,Troy St & Grace St,member
+0.418,Troy St & Grace St,casual
+0.026,Troy St & Jackson Blvd,casual
+0.035,Troy St & Jackson Blvd,member
+1.202,Troy St & North Ave,member
+0.752,Troy St & North Ave,casual
+0.112,Union Ave & Root St,casual
+0.109,Union Ave & Root St,member
+18.809,University Ave & 57th St,member
+5.863,University Ave & 57th St,casual
+1.372,University Ave & 59th St,casual
+4.877,University Ave & 59th St,member
+0.096,University Ave & 65th St,casual
+0.114,University Ave & 65th St,member
+1.069,University Library (NU),casual
+1.3,University Library (NU),member
+0.401,Valli Produce - Evanston Plaza,casual
+0.525,Valli Produce - Evanston Plaza,member
+0.007,Vernon Ave & 107th St,member
+0.083,Vernon Ave & 107th St,casual
+0.021,Vernon Ave & 75th St,casual
+0.063,Vernon Ave & 75th St,member
+0.038,Vernon Ave & 79th St,casual
+0.047,Vernon Ave & 79th St,member
+0.028,Vincennes Ave & 104th St,casual
+0.032,Vincennes Ave & 104th St,member
+0.001,Vincennes Ave & 107th St,member
+0.003,Vincennes Ave & 107th St,casual
+0.023,Vincennes Ave & 75th St,casual
+0.011,Vincennes Ave & 75th St,member
+0.004,Vincennes Ave & 79th St,casual
+0.007,Vincennes Ave & 79th St,member
+0.003,Vincennes Ave & 95th St,casual
+0.099,Virginia Ave & Catalpa Ave,member
+0.141,Virginia Ave & Catalpa Ave,casual
+0.043,W 103rd St & S Avers Ave,casual
+0.008,W 103rd St & S Avers Ave,member
+1.214,W Armitage Ave & N Sheffield Ave,casual
+2.186,W Armitage Ave & N Sheffield Ave,member
+1.01,W Oakdale Ave & N Broadway,member
+0.6,W Oakdale Ave & N Broadway,casual
+1.515,W Washington Blvd & N Peoria St,member
+0.594,W Washington Blvd & N Peoria St,casual
+3.157,Wabash Ave & 16th St,casual
+5.516,Wabash Ave & 16th St,member
+0.027,Wabash Ave & 49th St,casual
+0.012,Wabash Ave & 49th St,member
+0.021,Wabash Ave & 59th St,casual
+0.009,Wabash Ave & 59th St,member
+0.03,Wabash Ave & 83rd St,member
+0.025,Wabash Ave & 83rd St,casual
+0.065,Wabash Ave & 87th St,member
+0.081,Wabash Ave & 87th St,casual
+8.455,Wabash Ave & 9th St,member
+5.717,Wabash Ave & 9th St,casual
+4.383,Wabash Ave & Adams St,casual
+7.334,Wabash Ave & Adams St,member
+1.88,Wabash Ave & Cermak Rd,casual
+1.936,Wabash Ave & Cermak Rd,member
+10.632,Wabash Ave & Grand Ave,casual
+15.081,Wabash Ave & Grand Ave,member
+7.507,Wabash Ave & Roosevelt Rd,casual
+14.034,Wabash Ave & Roosevelt Rd,member
+6.826,Wabash Ave & Wacker Pl,casual
+6.87,Wabash Ave & Wacker Pl,member
+2.324,Wacker Dr & Washington St,casual
+7.5,Wacker Dr & Washington St,member
+0.119,Walden Pkwy & 100th St,member
+0.157,Walden Pkwy & 100th St,casual
+0.585,Wallace St & 35th St,casual
+1.546,Wallace St & 35th St,member
+0.022,Wallace St & Pershing Rd,casual
+0.018,Wallace St & Pershing Rd,member
+4.477,Walsh Park,member
+2.609,Walsh Park,casual
+0.289,Warren Park East,casual
+0.532,Warren Park East,member
+0.287,Warren Park West,casual
+0.778,Warren Park West,member
+0.848,Washtenaw Ave & Lawrence Ave,casual
+1.657,Washtenaw Ave & Lawrence Ave,member
+0.167,Washtenaw Ave & Madison St,member
+0.032,Washtenaw Ave & Madison St,casual
+0.195,Washtenaw Ave & Ogden Ave,casual
+0.388,Washtenaw Ave & Ogden Ave,member
+0.297,Washtenaw Ave & Peterson Ave,member
+0.114,Washtenaw Ave & Peterson Ave,casual
+0.119,Washtenaw Ave & Polk St,casual
+0.147,Washtenaw Ave & Polk St,member
+0.252,Weekend Night Parking Area A,member
+0.279,Weekend Night Parking Area A,casual
+0.208,Weekend Night Parking Area B,casual
+0.189,Weekend Night Parking Area B,member
+0.049,Weekend Night Parking Area C,member
+0.044,Weekend Night Parking Area C,casual
+0.068,Weekend Night Parking Area D,member
+0.044,Weekend Night Parking Area D,casual
+0.08,Wellington Ave & Mulligan Ave,casual
+0.018,Wellington Ave & Mulligan Ave,member
+1.395,Wells St & 19th St,casual
+0.7,Wells St & 19th St,member
+11.278,Wells St & Concord Ln,casual
+20.486,Wells St & Concord Ln,member
+20.217,Wells St & Elm St,member
+9.931,Wells St & Elm St,casual
+10.414,Wells St & Evergreen Ave,member
+7.044,Wells St & Evergreen Ave,casual
+7.726,Wells St & Hubbard St,casual
+15.938,Wells St & Hubbard St,member
+8.387,Wells St & Huron St,casual
+16.02,Wells St & Huron St,member
+4.771,Wells St & Institute Pl,member
+2.451,Wells St & Institute Pl,casual
+4.052,Wells St & Polk St,casual
+7.399,Wells St & Polk St,member
+4.116,Wells St & Randolph St,casual
+7.719,Wells St & Randolph St,member
+4.45,Wells St & Walton St,casual
+7.721,Wells St & Walton St,member
+0.003,Wentworth Ave & 104th St,member
+0.01,Wentworth Ave & 104th St,casual
+0.001,Wentworth Ave & 107th St,member
+0.006,Wentworth Ave & 107th St,casual
+1.132,Wentworth Ave & 24th St,member
+0.82,Wentworth Ave & 24th St,casual
+0.629,Wentworth Ave & 33rd St,casual
+2.554,Wentworth Ave & 33rd St,member
+1.093,Wentworth Ave & 35th St,casual
+1.406,Wentworth Ave & 35th St,member
+0.129,Wentworth Ave & 63rd St,casual
+0.082,Wentworth Ave & 63rd St,member
+0.01,Wentworth Ave & 92nd St,member
+0.007,Wentworth Ave & 92nd St,casual
+2.509,Wentworth Ave & Cermak Rd,casual
+2.074,Wentworth Ave & Cermak Rd,member
+2.523,Wentworth Ave & Cermak Rd*,casual
+2.669,Wentworth Ave & Cermak Rd*,member
+0.001,Western Ave & 101st St,member
+0.001,Western Ave & 101st St,casual
+0.069,Western Ave & 104th St,casual
+0.063,Western Ave & 104th St,member
+0.109,Western Ave & 111th St,member
+0.109,Western Ave & 111th St,casual
+1.024,Western Ave & 21st St,member
+0.552,Western Ave & 21st St,casual
+0.506,Western Ave & 24th St,member
+0.273,Western Ave & 24th St,casual
+0.039,Western Ave & 28th St,member
+0.049,Western Ave & 28th St,casual
+0.074,Western Ave & 43rd St,casual
+0.068,Western Ave & 43rd St,member
+0.003,Western Ave & 62nd St,member
+0.009,Western Ave & 62nd St,casual
+0.045,Western Ave & 79th St,casual
+0.038,Western Ave & 79th St,member
+0.006,Western Ave & 81st St,member
+0.015,Western Ave & 81st St,casual
+0.196,Western Ave & Ardmore Ave,casual
+0.095,Western Ave & Ardmore Ave,member
+0.319,Western Ave & Berteau Ave,casual
+0.837,Western Ave & Berteau Ave,member
+0.629,Western Ave & Congress Pkwy,casual
+2.113,Western Ave & Congress Pkwy,member
+1.919,Western Ave & Division St,casual
+3.337,Western Ave & Division St,member
+0.577,Western Ave & Fillmore St,casual
+3.477,Western Ave & Fillmore St,member
+0.543,Western Ave & Grace St,casual
+0.624,Western Ave & Grace St,member
+0.708,Western Ave & Granville Ave,member
+0.322,Western Ave & Granville Ave,casual
+0.708,Western Ave & Gunnison St,member
+0.234,Western Ave & Gunnison St,casual
+0.398,Western Ave & Howard St,casual
+0.749,Western Ave & Howard St,member
+0.221,Western Ave & Lake St,casual
+0.437,Western Ave & Lake St,member
+2.006,Western Ave & Leland Ave,casual
+4.787,Western Ave & Leland Ave,member
+0.397,Western Ave & Lunt Ave,casual
+1.223,Western Ave & Lunt Ave,member
+0.442,Western Ave & Monroe St,casual
+1.176,Western Ave & Monroe St,member
+1.911,Western Ave & Roscoe St,member
+0.866,Western Ave & Roscoe St,casual
+4.122,Western Ave & Walton St,member
+2.043,Western Ave & Walton St,casual
+3.074,Western Ave & Winnebago Ave,casual
+6.172,Western Ave & Winnebago Ave,member
+0.274,Western Blvd & 48th Pl,casual
+0.247,Western Blvd & 48th Pl,member
+0.036,Whipple St & Roosevelt Rd,member
+0.038,Whipple St & Roosevelt Rd,casual
+0.39,Whipple/Irving Park,member
+0.352,Whipple/Irving Park,casual
+8.16,Wilton Ave & Belmont Ave,casual
+15.939,Wilton Ave & Belmont Ave,member
+3.467,Wilton Ave & Diversey Pkwy,casual
+7.941,Wilton Ave & Diversey Pkwy,member
+3.653,Wilton Ave & Diversey Pkwy*,member
+1.844,Wilton Ave & Diversey Pkwy*,casual
+0.811,Winchester (Ravenswood) Ave & Balmoral Ave,casual
+1.153,Winchester (Ravenswood) Ave & Balmoral Ave,member
+2.219,Winchester Ave & Elston Ave,member
+0.768,Winchester Ave & Elston Ave,casual
+4.177,Winthrop Ave & Lawrence Ave,member
+2.177,Winthrop Ave & Lawrence Ave,casual
+3.715,Wolcott (Ravenswood) Ave & Montrose Ave,member
+1.911,Wolcott (Ravenswood) Ave & Montrose Ave,casual
+0.191,Wolcott Ave & Fargo Ave,casual
+0.274,Wolcott Ave & Fargo Ave,member
+1.313,Wolcott Ave & Polk St,casual
+7.486,Wolcott Ave & Polk St,member
+0.059,Wood St & 33rd St,member
+0.077,Wood St & 33rd St,casual
+0.2,Wood St & 35th St,casual
+0.479,Wood St & 35th St,member
+0.006,Wood St & 84th St,member
+0.016,Wood St & 84th St,casual
+1.77,Wood St & Augusta Blvd,casual
+4.535,Wood St & Augusta Blvd,member
+5.668,Wood St & Chicago Ave,member
+1.871,Wood St & Chicago Ave,casual
+1.345,Wood St & Hubbard St,casual
+3.101,Wood St & Hubbard St,member
+8.412,Wood St & Milwaukee Ave,member
+4.03,Wood St & Milwaukee Ave,casual
+5.042,Wood St & Taylor St (Temp),member
+0.756,Wood St & Taylor St (Temp),casual
+1.924,Wood St & Webster Ave,member
+0.849,Wood St & Webster Ave,casual
+0.019,Woodlawn & 103rd,casual
+0.003,Woodlawn & 103rd,member
+3.132,Woodlawn Ave & 55th St,casual
+7.411,Woodlawn Ave & 55th St,member
+6.189,Woodlawn Ave & 58th St,member
+2.31,Woodlawn Ave & 58th St,casual
+0.057,Woodlawn Ave & 75th St,casual
+0.041,Woodlawn Ave & 75th St,member
+0.63,Woodlawn Ave & Lake Park Ave,casual
+1.098,Woodlawn Ave & Lake Park Ave,member
+0.341,Wrigley Events Parking Area,casual
+0.252,Wrigley Events Parking Area,member
+0.052,Yates Blvd & 75th St,member
+0.117,Yates Blvd & 75th St,casual
+0.027,Yates Blvd & 93rd St,casual
+0.007,Yates Blvd & 93rd St,member

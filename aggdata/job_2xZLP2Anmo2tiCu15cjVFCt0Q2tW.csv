@@ -1,0 +1,7 @@
+rides_in_thousands,rideable_type,member_casual
+965.019,classic_bike,casual
+1033.59,electric_bike,casual
+81.45,electric_scooter,casual
+1749.604,classic_bike,member
+1835.477,electric_bike,member
+56.134,electric_scooter,member
